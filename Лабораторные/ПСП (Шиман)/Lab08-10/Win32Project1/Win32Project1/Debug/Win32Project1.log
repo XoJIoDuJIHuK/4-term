@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\danik\desktop\lab8\lab08-10\concurrentserver\debug\win32project1.dll' is denied.
+  stdafx.cpp
+  dllmain.cpp
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\dllmain.cpp(2,9): warning C4616: #pragma warning: warning number '2664' not a valid compiler warning
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\dllmain.cpp(2,31): warning C4081: expected 'newline'; found ';'
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(34,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(41,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(51,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(91,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(88,7): warning C4101: 'lobuf': unreferenced local variable
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(142,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(140,6): warning C4101: 'lobuf': unreferenced local variable
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(140,13): warning C4101: 'libuf': unreferenced local variable
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(161,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(162,6): warning C4101: 'lobuf': unreferenced local variable
+C:\Users\danik\Desktop\lab8\Lab08-10\Win32Project1\Win32Project1\PrototypeService.h(162,13): warning C4101: 'libuf': unreferenced local variable
+  ErrorFunctions.cpp
+  Win32Project1.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\danik\Desktop\lab8\Lab08-10\ConcurrentServer\Debug\Win32Project1.dll'

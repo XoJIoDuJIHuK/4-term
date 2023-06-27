@@ -1,0 +1,31 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="m_flowerShop">Цветочный магазин</v:String>
+        <v:String x:Key="m_home">Главная</v:String>
+        <v:String x:Key="m_view">Вид</v:String>
+        <v:String x:Key="m_add">Добавить</v:String>
+        <v:String x:Key="m_Title">Название</v:String>
+        <v:String x:Key="m_Armour">Броня, мм</v:String>
+        <v:String x:Key="m_Mass">Масса, т</v:String>
+        <v:String x:Key="m_VAA">УВН, град</v:String>
+        <v:String x:Key="m_Engine">Мощность двигателя, л.с.</v:String>
+        <v:String x:Key="m_RelativePower">УМ, л.с./т</v:String>
+        <v:String x:Key="m_Speed">Скорость, км/ч</v:String>
+        <v:String x:Key="m_sort">Сортировка</v:String>
+        <v:String x:Key="m_langButton">РУС</v:String>
+        <v:String x:Key="m_fullName">Полное название</v:String>
+        <v:String x:Key="m_rating">Рейтинг</v:String>
+        <v:String x:Key="m_price">Цена</v:String>
+        <v:String x:Key="m_amount">Количество</v:String>
+        <v:String x:Key="m_desc">Описание</v:String>
+        <v:String x:Key="m_delete">Удалить</v:String>
+        <v:String x:Key="m_save">Сохранить</v:String>
+        <v:String x:Key="m_edit">Изменить</v:String>
+        <v:String x:Key="m_cancel">Отменить</v:String>
+        <v:String x:Key="m_categories">Категории</v:String>
+        <v:String x:Key="m_priceRange">Диапазон цен</v:String>
+        <v:String x:Key="m_submit">Подтвердить</v:String>
+        <v:String x:Key="m_filter">Фильтр</v:String>
+        <v:String x:Key="m_search">Поиск</v:String>
+</ResourceDictionary>

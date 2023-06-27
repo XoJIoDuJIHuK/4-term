@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="oop_04.MVVM.View.ViewView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:oop_04.MVVM.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="800" d:DesignWidth="1286">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <local:ViewItemCard x:Name="ViewViewItemCard"
+                            Grid.Column="0"/>
+
+        <StackPanel Grid.Column="1">
+            <Button x:Name="DeleteItemCard"
+                    Command="{Binding deleteCommand}"
+                    Background="#FF2B3C"
+                    Height="60"
+                    VerticalAlignment="Top"
+                    Margin="10">
+                <TextBlock Text="Kekw"
+                           x:Name="DeleteTextBlock"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+            </Button>
+            <Button x:Name="EditItemCard"
+                    Background="#E9FF44"
+                    Command="{Binding editCommand}"
+                    Height="60"
+                    VerticalAlignment="Top"
+                    Margin="10">
+                <TextBlock Text="Lmao"
+                           x:Name="EditTextBlock"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+            </Button>
+            <Button x:Name="SaveItemCard"
+                    Visibility="Collapsed"
+                    Command="{Binding saveCommand}"
+                    Background="#4FFF4C"
+                    Height="60"
+                    VerticalAlignment="Top"
+                    Margin="10">
+                <TextBlock Text="Kekw"
+                           x:Name="SaveTextBlock"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+            </Button>
+            <Button x:Name="CancelEditingCard"
+                    Visibility="Collapsed"
+                    Command="{Binding cancelCommand}"
+                    Background="#FF2B3C"
+                    Height="60"
+                    VerticalAlignment="Top"
+                    Margin="10">
+                <TextBlock Text="Kekw"
+                           x:Name="CancelTextBlock"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+            </Button>
+            <TextBox Text="{Binding Lab6Text}"/>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

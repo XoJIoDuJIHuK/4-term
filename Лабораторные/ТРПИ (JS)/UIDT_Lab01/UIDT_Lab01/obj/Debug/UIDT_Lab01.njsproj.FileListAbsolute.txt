@@ -1,0 +1,3 @@
+D:\_УЧЁБА_\Лабораторные\ТРПИ\UIDT_Lab01\UIDT_Lab01\obj\Debug\UIDT_Lab01.njsproj.AssemblyReference.cache
+D:\_УЧЁБА_\Лабораторные\ТРПИ\UIDT_Lab01\UIDT_Lab01\obj\Debug\UIDT_Lab01.njsproj.CoreCompileInputs.cache
+D:\_УЧЁБА_\Лабораторные\ТРПИ\UIDT_Lab01\UIDT_Lab01\bin\Microsoft.NodejsTools.WebRole.dll

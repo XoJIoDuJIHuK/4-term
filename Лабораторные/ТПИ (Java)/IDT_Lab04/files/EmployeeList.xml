@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Juniors xmlns="http://msiter.ru"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://msiter.ru validation.xsd
+http://msiter.ru ">
+        <Junior>
+            <salary>21</salary>
+            <skill>UPPER_INTERMEDIATE</skill>
+        </Junior>
+        <Junior>
+            <salary>31</salary>
+            <skill>ADVANCED</skill>
+        </Junior>
+        <Junior>
+            <salary>51</salary>
+            <skill>AWFUL</skill>
+        </Junior>
+        <Junior>
+            <salary>1</salary>
+            <skill>IMPROVED</skill>
+        </Junior>
+    </Juniors>

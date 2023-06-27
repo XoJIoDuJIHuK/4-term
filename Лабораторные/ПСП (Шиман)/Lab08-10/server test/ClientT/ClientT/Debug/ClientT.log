@@ -1,0 +1,8 @@
+﻿  ClientT.cpp
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\ClientT\ClientT\ClientT.cpp(200,75): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\ClientT\ClientT\ClientT.cpp(294,184): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\ClientT\ClientT\ClientT.cpp(313,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\ClientT\ClientT\ClientT.cpp(315,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\ClientT\ClientT\ClientT.cpp(349,21): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\ClientT\ClientT\ClientT.cpp(305,18): warning C4101: obuf: неиспользованная локальная переменная
+  ClientT.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\ConcurrentServer\Debug\ClientT.exe

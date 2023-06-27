@@ -1,0 +1,9 @@
+﻿  Client.cpp
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\2\Client\Client\Client.cpp(48,7): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\2\Client\Client\Client.cpp(26,10): warning C4101: serverSocket: неиспользованная локальная переменная
+  Создание кода
+  1 of 111 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Client.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\2\Client\x64\Release\Client.exe

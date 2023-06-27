@@ -1,0 +1,78 @@
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.exe.config
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.exe
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.pdb
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.AssemblyReference.cache
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.SuggestedBindingRedirects.cache
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.CoreCompileInputs.cache
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.exe
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.pdb
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.xml
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.CopyComplete
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Helpers.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Mvc.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Razor.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Razor.dll
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Helpers.xml
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Mvc.xml
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Razor.xml
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.xml
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\2k2s\OOP_MY\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.exe.config
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.exe
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.pdb
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Helpers.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Mvc.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Razor.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Helpers.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Mvc.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Razor.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.AssemblyReference.cache
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.SuggestedBindingRedirects.cache
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.CoreCompileInputs.cache
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.CopyComplete
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.exe
+D:\BSTU\2course\2term\ООП\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.pdb
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.exe.config
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.exe
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\Lab9_EF.pdb
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Helpers.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Mvc.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Razor.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Razor.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Helpers.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Mvc.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.Razor.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\bin\Debug\System.Web.WebPages.Razor.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.AssemblyReference.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.SuggestedBindingRedirects.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.CoreCompileInputs.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.csproj.CopyComplete
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.exe
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab9_EF\Lab9_EF\obj\Debug\Lab9_EF.pdb

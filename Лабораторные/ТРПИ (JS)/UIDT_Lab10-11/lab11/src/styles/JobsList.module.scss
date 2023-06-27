@@ -1,0 +1,16 @@
+@media (min-width: 1486px) {
+    .jobsList {
+        display: inline-flex;
+        flex-direction: column;
+        width: 480px;
+    }
+}
+
+@media (max-width: 1486px) {
+    .jobsList {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+}

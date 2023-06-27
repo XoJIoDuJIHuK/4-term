@@ -1,0 +1,4 @@
+﻿  ClientU.cpp
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\3\ClientU\ClientU\ClientU.cpp(63,7): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\3\ClientU\ClientU\ClientU.cpp(28,10): warning C4101: serverSocket: неиспользованная локальная переменная
+  ClientU.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\3\ClientU\x64\Debug\ClientU.exe

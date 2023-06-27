@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<generals>
+    <general>
+        <name>Manstein</name>
+        <country>GER</country>
+    </general>
+    <general>
+        <name>Zhukov</name>
+        <country>SOV</country>
+    </general>
+    <general>
+        <name>Montgomery</name>
+        <country>GBR</country>
+    </general>
+</generals>

@@ -1,0 +1,8 @@
+D:\2k2s\OOP_MY\Lab9_EF\Test_MOdeldb\bin\Debug\Test_MOdeldb.exe.config
+D:\2k2s\OOP_MY\Lab9_EF\Test_MOdeldb\bin\Debug\Test_MOdeldb.exe
+D:\2k2s\OOP_MY\Lab9_EF\Test_MOdeldb\bin\Debug\Test_MOdeldb.pdb
+D:\2k2s\OOP_MY\Lab9_EF\Test_MOdeldb\obj\Debug\Test_MOdeldb.csproj.AssemblyReference.cache
+D:\2k2s\OOP_MY\Lab9_EF\Test_MOdeldb\obj\Debug\Test_MOdeldb.csproj.SuggestedBindingRedirects.cache
+D:\2k2s\OOP_MY\Lab9_EF\Test_MOdeldb\obj\Debug\Test_MOdeldb.csproj.CoreCompileInputs.cache
+D:\2k2s\OOP_MY\Lab9_EF\Test_MOdeldb\obj\Debug\Test_MOdeldb.exe
+D:\2k2s\OOP_MY\Lab9_EF\Test_MOdeldb\obj\Debug\Test_MOdeldb.pdb

@@ -1,0 +1,5 @@
+﻿  RConsole.cpp
+C:\Users\nikit\Desktop\univer\2cource2sem\PCP\lab8\Lab08-10\server test\RConsole\ClientNP\RConsole.cpp(47,7): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\univer\2cource2sem\PCP\lab8\Lab08-10\server test\RConsole\ClientNP\RConsole.cpp(48,7): warning C4101: final_msg: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\univer\2cource2sem\PCP\lab8\Lab08-10\server test\RConsole\ClientNP\RConsole.cpp(67,6): warning C4101: n: неиспользованная локальная переменная
+  ClientNP.vcxproj -> C:\Users\nikit\Desktop\univer\2cource2sem\PCP\lab8\Lab08-10\server test\RConsole\x64\Debug\RConsole.exe

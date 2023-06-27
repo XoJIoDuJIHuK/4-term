@@ -1,0 +1,9 @@
+﻿  ClientU2.cpp
+D:\Programs\Visual Studio Community 2022\VC\Tools\MSVC\14.34.31933\include\charconv(13): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\3\ClientU2\ClientU2\ClientU2.cpp(65,7): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\3\ClientU2\ClientU2\ClientU2.cpp(31,10): warning C4101: serverSocket: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 131 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ClientU2.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\3\ClientU2\x64\Release\ClientU2.exe

@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  ConcurrentServer.cpp
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(78,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(85,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(177,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(177,11): message : consider using '%zd' in the format string
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(189,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(189,11): message : consider using '%zd' in the format string
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(294,1): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'unsigned __int64'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(294,1): message : consider using '%zd' in the format string
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(303,61): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(256,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(293,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(341,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(358,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(390,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(397,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(387,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(492,102): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(516,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(520,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(521,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(525,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(526,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ErrorFunctions.cpp
+  Generating Code...
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(239): warning C4715: 'set_param': not all control paths return a value
+  ConcurrentServer.vcxproj -> D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\ConcurrentServer\x64\Debug\ConcurrentServer.exe

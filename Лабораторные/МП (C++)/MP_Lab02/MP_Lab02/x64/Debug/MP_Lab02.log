@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\_УЧЁБА_\Лабораторные\Матпрога\MP_Lab02\MP_Lab02\Source.cpp(13,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MP_Lab02.vcxproj -> D:\_УЧЁБА_\Лабораторные\Матпрога\MP_Lab02\x64\Debug\MP_Lab02.exe

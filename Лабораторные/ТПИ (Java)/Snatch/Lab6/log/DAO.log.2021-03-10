@@ -1,0 +1,27 @@
+10.03.2021 15:28:27 [main] INFO  Main  - All authors
+
+10.03.2021 15:28:27 [main] INFO  Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+10.03.2021 15:28:27 [main] INFO  Main  - авторы у которых больше 1-ой книги
+10.03.2021 15:28:27 [main] INFO  Main  - []
+10.03.2021 15:28:27 [main] INFO  Main  - Список всех книг
+10.03.2021 15:28:27 [main] INFO  Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+
+10.03.2021 15:28:27 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+10.03.2021 15:28:27 [main] INFO  Main  - []
+
+10.03.2021 15:28:27 [main] INFO  Main  - Список оставшихся книг после удаления
+10.03.2021 15:28:32 [main] INFO  Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='2017-05-01', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='2017-01-01', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='2018-01-01', publishing_house='LibUk', id_book=5}]
+

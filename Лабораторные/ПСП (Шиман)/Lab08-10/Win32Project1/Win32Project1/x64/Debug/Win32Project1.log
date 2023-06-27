@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\dllmain.cpp(2,9): warning C4616: #pragma warning: warning number '2664' not a valid compiler warning
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\dllmain.cpp(2,31): warning C4081: expected 'newline'; found ';'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(34,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(41,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(51,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(87,46): error C2664: 'void QueueUserAPCWrapper(PAPCFUNC,Contact *)': cannot convert argument 1 from 'void (__cdecl *)(DWORD)' to 'PAPCFUNC'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(87,23): message : None of the functions with this name in scope match the target type
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(70,6): message : see declaration of 'QueueUserAPCWrapper'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(114,47): error C2664: 'void QueueUserAPCWrapper(PAPCFUNC,Contact *)': cannot convert argument 1 from 'void (__cdecl *)(DWORD)' to 'PAPCFUNC'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(114,23): message : None of the functions with this name in scope match the target type
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(70,6): message : see declaration of 'QueueUserAPCWrapper'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(129,46): error C2664: 'void QueueUserAPCWrapper(PAPCFUNC,Contact *)': cannot convert argument 1 from 'void (__cdecl *)(DWORD)' to 'PAPCFUNC'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(129,22): message : None of the functions with this name in scope match the target type
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(70,6): message : see declaration of 'QueueUserAPCWrapper'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(91,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(141,45): error C2664: 'void QueueUserAPCWrapper(PAPCFUNC,Contact *)': cannot convert argument 1 from 'void (__cdecl *)(DWORD)' to 'PAPCFUNC'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(141,22): message : None of the functions with this name in scope match the target type
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(70,6): message : see declaration of 'QueueUserAPCWrapper'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(150,46): error C2664: 'void QueueUserAPCWrapper(PAPCFUNC,Contact *)': cannot convert argument 1 from 'void (__cdecl *)(DWORD)' to 'PAPCFUNC'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(150,22): message : None of the functions with this name in scope match the target type
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(70,6): message : see declaration of 'QueueUserAPCWrapper'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(142,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(160,45): error C2664: 'void QueueUserAPCWrapper(PAPCFUNC,Contact *)': cannot convert argument 1 from 'void (__cdecl *)(DWORD)' to 'PAPCFUNC'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(160,22): message : None of the functions with this name in scope match the target type
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(70,6): message : see declaration of 'QueueUserAPCWrapper'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(161,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(172,46): error C2664: 'void QueueUserAPCWrapper(PAPCFUNC,Contact *)': cannot convert argument 1 from 'void (__cdecl *)(DWORD)' to 'PAPCFUNC'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(172,22): message : None of the functions with this name in scope match the target type
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(70,6): message : see declaration of 'QueueUserAPCWrapper'
+D:\5 семестр\Лабораторные\БиП\PiBSM_Lab8-10\Win32Project1\Win32Project1\PrototypeService.h(164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

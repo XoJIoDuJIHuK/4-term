@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b2533b14e7ed4ec08a68d4fca4d0f546" Name="Diagram1">
+        <EntityTypeShape EntityType="fitness_centerModel.client_plans" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="fitness_centerModel.clients" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="fitness_centerModel.employees" Width="1.5" PointX="2.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="fitness_centerModel.schedule" Width="1.5" PointX="5" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="fitness_centerModel.workout_plans" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <AssociationConnector Association="fitness_centerModel.FK__client_pl__clien__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="fitness_centerModel.FK__client_pl__plan___412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="fitness_centerModel.FK__schedule__employ__3B75D760" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

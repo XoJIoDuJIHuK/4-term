@@ -1,0 +1,8 @@
+﻿  ServerU.cpp
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\3\ServerU\ServerU\ServerU.cpp(64,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 105 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ServerU.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\3\ServerU\x64\Release\ServerU.exe

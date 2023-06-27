@@ -1,0 +1,8 @@
+D:\2k2s\OOP_MY\Lab9_EF\ModelFirst_EX\bin\Debug\ModelFirst_EX.exe.config
+D:\2k2s\OOP_MY\Lab9_EF\ModelFirst_EX\bin\Debug\ModelFirst_EX.exe
+D:\2k2s\OOP_MY\Lab9_EF\ModelFirst_EX\bin\Debug\ModelFirst_EX.pdb
+D:\2k2s\OOP_MY\Lab9_EF\ModelFirst_EX\obj\Debug\ModelFirst_EX.csproj.AssemblyReference.cache
+D:\2k2s\OOP_MY\Lab9_EF\ModelFirst_EX\obj\Debug\ModelFirst_EX.csproj.SuggestedBindingRedirects.cache
+D:\2k2s\OOP_MY\Lab9_EF\ModelFirst_EX\obj\Debug\ModelFirst_EX.csproj.CoreCompileInputs.cache
+D:\2k2s\OOP_MY\Lab9_EF\ModelFirst_EX\obj\Debug\ModelFirst_EX.exe
+D:\2k2s\OOP_MY\Lab9_EF\ModelFirst_EX\obj\Debug\ModelFirst_EX.pdb

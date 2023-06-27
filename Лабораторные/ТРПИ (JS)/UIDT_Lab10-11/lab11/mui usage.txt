@@ -1,0 +1,9 @@
+Все divы заменены на Boxы
+
+JobCard 47 - FavouriteIcon
+HeaderComponent 22, 28 - Link
+DisplayComponent 52 - IconButton
+DisplayComponent 53 - CloseOutlinedIcon
+
+SearchBarComponent текстовые поля заменены на TextFieldы, радиокнопки - на 
+	FormControlLabel, вложенные в RadioGroup

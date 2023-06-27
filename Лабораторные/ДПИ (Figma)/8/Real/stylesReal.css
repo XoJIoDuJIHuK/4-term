@@ -1,0 +1,173 @@
+body {
+  background-color: #668266;
+}
+
+.root-wrapper {
+  width: 100%;
+  margin: repeat(4, 1.04vw);
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.root-wrapper .top-bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 1.04vw;
+  font-family: Roboto;
+  font-size: 2.5vw;
+  font-weight: 400;
+  color: #ffffff;
+}
+.root-wrapper .top-bar button {
+  width: 23.7vw;
+  font-family: Roboto;
+  font-size: 2.5vw;
+  font-weight: 400;
+  background-color: #475448;
+  border-width: 0;
+  border-radius: 0.52vw;
+  color: #ffffff;
+}
+.root-wrapper .main-frame {
+  width: 100%;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 23.7vw 1.04vw 48.44vw 1.04vw 23.7vw;
+  grid-template-columns: 23.7vw 1.04vw 48.44vw 1.04vw 23.7vw;
+}
+.root-wrapper .main-frame #attackers {
+  -ms-grid-column: 1;
+      grid-column-start: 1;
+}
+.root-wrapper .main-frame #defenders {
+  -ms-grid-column: 5;
+  grid-column: 5;
+}
+.root-wrapper .main-frame .armies-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 100%;
+  border-radius: 0.52vw;
+  background-color: #475448;
+}
+.root-wrapper .main-frame .armies-wrapper .armies-list {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 0.26vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+.root-wrapper .main-frame .armies-wrapper .armies-list .army-group, .root-wrapper .main-frame .armies-wrapper .armies-list .army, .root-wrapper .main-frame .armies-wrapper .armies-list .division {
+  height: 3.125vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+.root-wrapper .main-frame .armies-wrapper .armies-list .army-group div, .root-wrapper .main-frame .armies-wrapper .armies-list .army div, .root-wrapper .main-frame .armies-wrapper .armies-list .division div {
+  color: #ffffff;
+  font-size: 1.04vw;
+  margin-left: 10px;
+}
+.root-wrapper .main-frame .armies-wrapper .armies-list .army-group {
+  width: 23.2vw;
+}
+.root-wrapper .main-frame .armies-wrapper .armies-list .army {
+  width: 21.6vw;
+}
+.root-wrapper .main-frame .armies-wrapper .armies-list .division {
+  width: 20.1vw;
+}
+.root-wrapper .main-frame .armies-wrapper .armies-list div {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 29px;
+  border-radius: 0.26vw;
+  background-color: #668266;
+}
+.root-wrapper .main-frame .armies-wrapper .armies-list div img {
+  margin: 0;
+  border-top-left-radius: 0.26vw;
+  border-bottom-left-radius: 0.26vw;
+  height: 100%;
+}
+.root-wrapper .main-frame .armies-wrapper img {
+  border-radius: 0.26vw;
+  margin: 0.26vw;
+}
+.root-wrapper .main-frame .central-column {
+  -ms-grid-column: 3;
+  grid-column: 3;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.root-wrapper .main-frame .central-column .log {
+  border-radius: 0.52vw;
+  background-color: #475448;
+  color: #ffffff;
+  height: 73vh;
+  font-size: 1.3vw;
+  margin-bottom: 1.04vw;
+  padding: 0.52vw;
+}
+.root-wrapper .main-frame .central-column .log p {
+  margin: 0;
+}
+.root-wrapper .main-frame .central-column .terrain-selector {
+  height: 13.66vw;
+  background-color: #475448;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0.26vw;
+  border-radius: 0.52vw;
+}
+.root-wrapper .main-frame .central-column .terrain-selector select {
+  background-color: #668266;
+  color: #ffffff;
+  width: 49.5%;
+  font-size: 2.5vw;
+  text-align: center;
+  border-radius: 0.26vw;
+}
+.root-wrapper .main-frame .central-column .terrain-selector img {
+  width: 49.5%;
+  border-radius: 0.26vw;
+}

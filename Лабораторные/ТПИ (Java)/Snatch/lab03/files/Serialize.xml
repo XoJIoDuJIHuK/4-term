@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15.0.10" class="java.beans.XMLDecoder">
+ <object class="by.Merhel.program.FamilyContent" id="FamilyContent0">
+  <void class="by.Merhel.program.BasicProgram" method="getField">
+   <string>duration</string>
+   <void method="set">
+    <object idref="FamilyContent0"/>
+    <int>100</int>
+   </void>
+  </void>
+  <void class="by.Merhel.program.BasicProgram" method="getField">
+   <string>prType</string>
+   <void method="set">
+    <object idref="FamilyContent0"/>
+    <object class="java.lang.Enum" method="valueOf">
+     <class>by.Merhel.program.type</class>
+     <string>cartoon</string>
+    </object>
+   </void>
+  </void>
+  <void class="by.Merhel.program.BasicProgram" method="getField">
+   <string>company</string>
+   <void method="set">
+    <object idref="FamilyContent0"/>
+    <string>MyCompanie</string>
+   </void>
+  </void>
+  <void class="by.Merhel.program.BasicProgram" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="FamilyContent0"/>
+    <string>MyMovie</string>
+   </void>
+  </void>
+ </object>
+</java>

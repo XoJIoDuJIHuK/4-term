@@ -1,0 +1,14 @@
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\bin\Debug\oop-02.exe.config
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\bin\Debug\oop-02.exe
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\bin\Debug\oop-02.pdb
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop-02.csproj.AssemblyReference.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop-02.csproj.SuggestedBindingRedirects.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop_02.Form1.resources
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop_02.Properties.Resources.resources
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop-02.csproj.GenerateResource.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop-02.csproj.CoreCompileInputs.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop-02.exe
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop-02.pdb
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\bin\Debug\Newtonsoft.Json.dll
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\bin\Debug\Newtonsoft.Json.xml
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-02\oop-02\obj\Debug\oop-02.csproj.CopyComplete

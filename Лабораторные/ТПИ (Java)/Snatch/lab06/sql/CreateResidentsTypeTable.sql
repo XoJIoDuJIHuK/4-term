@@ -1,0 +1,20 @@
+USE [Weather]
+GO
+
+/****** Object:  Table [dbo].[Residents_Type]    Script Date: 25.03.2021 12:08:46 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Residents_Type](
+	[Name] [nvarchar](15) NOT NULL,
+	[Language] [nvarchar](15) NULL,
+ CONSTRAINT [PK_Residents_Type] PRIMARY KEY CLUSTERED 
+(
+	[Name] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+

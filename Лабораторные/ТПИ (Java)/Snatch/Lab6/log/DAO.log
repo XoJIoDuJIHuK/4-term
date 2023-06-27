@@ -1,0 +1,1427 @@
+05.05.2021 00:35:56 [main] INFO  Main  - All authors
+
+05.05.2021 00:36:26 [main] INFO  Main  - All authors
+
+05.05.2021 00:36:59 [main] INFO  Main  - All authors
+
+05.05.2021 00:36:59 [main] INFO  Main  - []
+
+05.05.2021 00:36:59 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 00:37:25 [main] INFO  Main  - All authors
+
+05.05.2021 00:37:25 [main] INFO  Main  - []
+
+05.05.2021 00:37:25 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 00:37:25 [main] INFO  Main  - []
+05.05.2021 00:37:25 [main] INFO  Main  - Список всех книг
+05.05.2021 00:37:25 [main] INFO  Main  - []
+
+05.05.2021 00:37:25 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 00:41:04 [main] INFO  Main  - All authors
+
+05.05.2021 00:41:04 [main] INFO  Main  - []
+
+05.05.2021 00:41:04 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 00:41:04 [main] INFO  Main  - []
+05.05.2021 00:41:04 [main] INFO  Main  - Список всех книг
+05.05.2021 00:41:04 [main] INFO  Main  - []
+
+05.05.2021 00:41:04 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 00:41:50 [main] INFO  Main  - All authors
+
+05.05.2021 00:41:50 [main] INFO  Main  - []
+
+05.05.2021 00:41:50 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 00:41:50 [main] INFO  Main  - []
+05.05.2021 00:41:50 [main] INFO  Main  - Список всех книг
+05.05.2021 00:41:50 [main] INFO  Main  - []
+
+05.05.2021 00:41:50 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 00:41:50 [main] INFO  Main  - []
+
+05.05.2021 00:41:50 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 14:05:28 [main] INFO  Main  - All authors
+
+05.05.2021 14:05:28 [main] INFO  Main  - []
+
+05.05.2021 14:05:28 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 14:05:28 [main] INFO  Main  - []
+05.05.2021 14:05:28 [main] INFO  Main  - Список всех книг
+05.05.2021 14:05:28 [main] INFO  Main  - []
+
+05.05.2021 14:05:28 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 14:05:28 [main] INFO  Main  - []
+
+05.05.2021 14:05:28 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 14:08:08 [main] INFO  Main  - All authors
+
+05.05.2021 14:08:08 [main] INFO  Main  - []
+
+05.05.2021 14:08:08 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 14:08:08 [main] INFO  Main  - []
+05.05.2021 14:08:08 [main] INFO  Main  - Список всех книг
+05.05.2021 14:08:08 [main] INFO  Main  - []
+
+05.05.2021 14:08:08 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 14:08:08 [main] INFO  Main  - []
+
+05.05.2021 14:08:08 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:22:05 [main] INFO  Main  - All authors
+
+05.05.2021 15:22:05 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:22:05 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:22:05 [main] INFO  Main  - []
+05.05.2021 15:22:05 [main] INFO  Main  - Список всех книг
+05.05.2021 15:22:05 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}]
+
+05.05.2021 15:22:05 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:22:05 [main] INFO  Main  - []
+
+05.05.2021 15:22:05 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:43:58 [main] INFO  Main  - All authors
+
+05.05.2021 15:43:58 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:43:58 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:43:58 [main] INFO  Main  - []
+05.05.2021 15:43:58 [main] INFO  Main  - Список всех книг
+05.05.2021 15:43:58 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}]
+
+05.05.2021 15:43:58 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:43:58 [main] INFO  Main  - []
+
+05.05.2021 15:43:58 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:44:35 [main] INFO  Main  - All authors
+
+05.05.2021 15:44:35 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:44:35 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:44:35 [main] INFO  Main  - []
+05.05.2021 15:44:35 [main] INFO  Main  - Список всех книг
+05.05.2021 15:44:35 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}]
+
+05.05.2021 15:44:35 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:44:35 [main] INFO  Main  - []
+
+05.05.2021 15:44:35 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:44:57 [main] INFO  Main  - All authors
+
+05.05.2021 15:44:57 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:44:57 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:44:57 [main] INFO  Main  - []
+05.05.2021 15:44:57 [main] INFO  Main  - Список всех книг
+05.05.2021 15:44:57 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}]
+
+05.05.2021 15:44:57 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:44:57 [main] INFO  Main  - []
+
+05.05.2021 15:44:57 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:45:23 [main] INFO  Main  - All authors
+
+05.05.2021 15:45:23 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:45:23 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:45:23 [main] INFO  Main  - []
+05.05.2021 15:45:23 [main] INFO  Main  - Список всех книг
+05.05.2021 15:45:23 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}]
+
+05.05.2021 15:45:23 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:45:23 [main] INFO  Main  - []
+
+05.05.2021 15:45:23 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:48:26 [main] INFO  Main  - All authors
+
+05.05.2021 15:48:26 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:48:26 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:48:26 [main] INFO  Main  - []
+05.05.2021 15:48:26 [main] INFO  Main  - Список всех книг
+05.05.2021 15:48:26 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:48:26 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:48:26 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:48:26 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:48:52 [main] INFO  Main  - All authors
+
+05.05.2021 15:48:52 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:48:52 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:48:52 [main] INFO  Main  - []
+05.05.2021 15:48:52 [main] INFO  Main  - Список всех книг
+05.05.2021 15:48:52 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:48:52 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:48:52 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:48:52 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:49:17 [main] INFO  Main  - All authors
+
+05.05.2021 15:49:17 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:49:17 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:49:17 [main] INFO  Main  - []
+05.05.2021 15:49:17 [main] INFO  Main  - Список всех книг
+05.05.2021 15:49:17 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:49:17 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:49:17 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:49:17 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:49:49 [main] INFO  Main  - All authors
+
+05.05.2021 15:49:49 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}]
+
+05.05.2021 15:49:49 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:49:49 [main] INFO  Main  - []
+05.05.2021 15:49:49 [main] INFO  Main  - Список всех книг
+05.05.2021 15:49:49 [main] INFO  Main  - [
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='', author='null', released='null', publishing_house='null', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:49:49 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:49:49 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:49:49 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:53:10 [main] INFO  Main  - All authors
+
+05.05.2021 15:53:10 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 15:53:10 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:53:10 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 15:53:10 [main] INFO  Main  - Список всех книг
+05.05.2021 15:53:10 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:53:10 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:53:10 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:53:10 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:54:44 [main] INFO  Main  - All authors
+
+05.05.2021 15:54:44 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 15:54:44 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:54:44 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 15:54:44 [main] INFO  Main  - Список всех книг
+05.05.2021 15:54:44 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:54:44 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:55:10 [main] INFO  Main  - All authors
+
+05.05.2021 15:55:10 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 15:55:10 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:55:10 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 15:55:10 [main] INFO  Main  - Список всех книг
+05.05.2021 15:55:10 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:55:10 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:55:10 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:55:10 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:57:14 [main] INFO  Main  - All authors
+
+05.05.2021 15:57:14 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 15:57:14 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:57:14 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 15:57:14 [main] INFO  Main  - Список всех книг
+05.05.2021 15:57:14 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:57:14 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:57:14 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:57:14 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 15:57:54 [main] INFO  Main  - All authors
+
+05.05.2021 15:57:54 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 15:57:54 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 15:57:54 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 15:57:54 [main] INFO  Main  - Список всех книг
+05.05.2021 15:57:54 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:57:54 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 15:57:54 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 15:57:54 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:00:31 [main] INFO  Main  - All authors
+
+05.05.2021 16:00:31 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:00:31 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:00:31 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:00:31 [main] INFO  Main  - Список всех книг
+05.05.2021 16:00:31 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:00:31 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:00:31 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:00:31 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:01:53 [main] INFO  Main  - All authors
+
+05.05.2021 16:01:53 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:01:53 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:01:53 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:01:53 [main] INFO  Main  - Список всех книг
+05.05.2021 16:01:53 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:01:53 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:01:53 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:01:53 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:02:02 [main] INFO  Main  - All authors
+
+05.05.2021 16:02:02 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:02:02 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:02:02 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:02:02 [main] INFO  Main  - Список всех книг
+05.05.2021 16:02:02 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:02:02 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:02:02 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:02:02 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:02:55 [main] INFO  Main  - All authors
+
+05.05.2021 16:02:55 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:02:55 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:02:55 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:02:55 [main] INFO  Main  - Список всех книг
+05.05.2021 16:02:55 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:02:55 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:02:55 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:02:55 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:06:02 [main] INFO  Main  - All authors
+
+05.05.2021 16:06:02 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:06:02 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:06:02 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:06:02 [main] INFO  Main  - Список всех книг
+05.05.2021 16:06:02 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:06:02 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:06:21 [main] INFO  Main  - All authors
+
+05.05.2021 16:06:21 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:06:21 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:06:21 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:06:21 [main] INFO  Main  - Список всех книг
+05.05.2021 16:06:21 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:06:21 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:06:21 [main] INFO  Main  - []
+
+05.05.2021 16:06:21 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:06:32 [main] INFO  Main  - All authors
+
+05.05.2021 16:06:32 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:06:32 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:06:32 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:06:32 [main] INFO  Main  - Список всех книг
+05.05.2021 16:06:32 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:06:32 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:06:43 [main] INFO  Main  - []
+
+05.05.2021 16:06:43 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:08:34 [main] INFO  Main  - All authors
+
+05.05.2021 16:08:34 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:08:34 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:08:34 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:08:34 [main] INFO  Main  - Список всех книг
+05.05.2021 16:08:34 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:08:34 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:08:34 [main] INFO  Main  - [
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:08:34 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:11:00 [main] INFO  Main  - All authors
+
+05.05.2021 16:11:00 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:11:00 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:11:00 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:11:00 [main] INFO  Main  - Список всех книг
+05.05.2021 16:11:00 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:11:00 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:11:00 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:11:00 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:11:35 [main] INFO  Main  - All authors
+
+05.05.2021 16:11:35 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:11:35 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:11:35 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:11:35 [main] INFO  Main  - Список всех книг
+05.05.2021 16:11:35 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:11:35 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:11:35 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:11:35 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:13:51 [main] INFO  Main  - All authors
+
+05.05.2021 16:13:51 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:13:51 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:13:51 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:13:51 [main] INFO  Main  - Список всех книг
+05.05.2021 16:13:51 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:13:51 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:13:51 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:13:51 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:14:09 [main] INFO  Main  - All authors
+
+05.05.2021 16:14:09 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:14:09 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:14:09 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:14:09 [main] INFO  Main  - Список всех книг
+05.05.2021 16:14:09 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:14:09 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:14:09 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:14:09 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:14:31 [main] INFO  Main  - All authors
+
+05.05.2021 16:14:31 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:14:31 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:14:31 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:14:31 [main] INFO  Main  - Список всех книг
+05.05.2021 16:14:31 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:14:31 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:14:31 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:14:31 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:15:04 [main] INFO  Main  - All authors
+
+05.05.2021 16:15:04 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:15:04 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:15:04 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:15:04 [main] INFO  Main  - Список всех книг
+05.05.2021 16:15:04 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:15:04 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:15:04 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:15:04 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:15:19 [main] INFO  Main  - All authors
+
+05.05.2021 16:15:19 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:15:19 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:15:19 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:15:19 [main] INFO  Main  - Список всех книг
+05.05.2021 16:15:19 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:15:19 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:15:19 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:15:19 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:17:22 [main] INFO  Main  - All authors
+
+05.05.2021 16:17:22 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:17:22 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:17:22 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:17:22 [main] INFO  Main  - Список всех книг
+05.05.2021 16:17:22 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:17:22 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:17:22 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:17:22 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:18:31 [main] INFO  Main  - All authors
+
+05.05.2021 16:18:31 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:18:31 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:18:31 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:18:31 [main] INFO  Main  - Список всех книг
+05.05.2021 16:18:31 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:18:31 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:18:31 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:18:31 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:18:34 [main] INFO  Main  - [
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}]
+
+05.05.2021 16:19:23 [main] INFO  Main  - All authors
+
+05.05.2021 16:19:23 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:19:23 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:19:23 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:19:23 [main] INFO  Main  - Список всех книг
+05.05.2021 16:19:23 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='11.12.2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:19:23 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:19:23 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:19:23 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:21:19 [main] INFO  Main  - All authors
+
+05.05.2021 16:21:19 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:21:19 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:21:19 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:21:19 [main] INFO  Main  - Список всех книг
+05.05.2021 16:21:19 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:21:19 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:21:19 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:21:19 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:23:23 [main] INFO  Main  - All authors
+
+05.05.2021 16:23:23 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:23:23 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:23:23 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:23:23 [main] INFO  Main  - Список всех книг
+05.05.2021 16:23:23 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:23:23 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:23:23 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:23:23 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:24:07 [main] INFO  Main  - All authors
+
+05.05.2021 16:24:07 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:24:07 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:24:07 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:24:07 [main] INFO  Main  - Список всех книг
+05.05.2021 16:24:07 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:24:07 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:24:07 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:24:07 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:24:39 [main] INFO  Main  - All authors
+
+05.05.2021 16:24:39 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:24:39 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:24:39 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:24:39 [main] INFO  Main  - Список всех книг
+05.05.2021 16:24:39 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:24:39 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:24:39 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:24:39 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:26:59 [main] INFO  Main  - All authors
+
+05.05.2021 16:26:59 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:26:59 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:26:59 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:26:59 [main] INFO  Main  - Список всех книг
+05.05.2021 16:26:59 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:26:59 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:26:59 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:26:59 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:30:57 [main] INFO  Main  - All authors
+
+05.05.2021 16:30:57 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:30:57 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:30:57 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:30:57 [main] INFO  Main  - Список всех книг
+05.05.2021 16:30:57 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:30:57 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:30:57 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:30:57 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:32:28 [main] INFO  Main  - All authors
+
+05.05.2021 16:32:28 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:32:28 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:32:28 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:32:28 [main] INFO  Main  - Список всех книг
+05.05.2021 16:32:28 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:32:28 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:32:28 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:32:28 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:32:45 [main] INFO  Main  - All authors
+
+05.05.2021 16:32:45 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:32:45 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:32:45 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:32:45 [main] INFO  Main  - Список всех книг
+05.05.2021 16:32:45 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:32:45 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:32:45 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:32:45 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:34:12 [main] INFO  Main  - All authors
+
+05.05.2021 16:34:12 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:34:12 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:34:12 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:34:12 [main] INFO  Main  - Список всех книг
+05.05.2021 16:34:12 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:34:12 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:34:12 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:34:12 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:35:10 [main] INFO  Main  - All authors
+
+05.05.2021 16:35:10 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:35:10 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:35:10 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:35:10 [main] INFO  Main  - Список всех книг
+05.05.2021 16:35:10 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:35:10 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:35:10 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:35:10 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:37:42 [main] INFO  Main  - All authors
+
+05.05.2021 16:37:43 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:37:43 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:37:43 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:37:43 [main] INFO  Main  - Список всех книг
+05.05.2021 16:37:43 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:37:43 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:37:43 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:37:43 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:37:58 [main] INFO  Main  - All authors
+
+05.05.2021 16:37:58 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:37:58 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:37:58 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:37:58 [main] INFO  Main  - Список всех книг
+05.05.2021 16:37:58 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:37:58 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:37:58 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:37:58 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:38:33 [main] INFO  Main  - All authors
+
+05.05.2021 16:38:33 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:38:33 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:38:33 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:38:33 [main] INFO  Main  - Список всех книг
+05.05.2021 16:38:33 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:38:33 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:38:33 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:38:33 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:38:49 [main] INFO  Main  - All authors
+
+05.05.2021 16:38:49 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:38:49 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:38:49 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:38:49 [main] INFO  Main  - Список всех книг
+05.05.2021 16:38:49 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:38:49 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:38:49 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:38:49 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:40:58 [main] INFO  Main  - All authors
+
+05.05.2021 16:40:58 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:40:58 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:40:58 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:40:58 [main] INFO  Main  - Список всех книг
+05.05.2021 16:40:58 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:40:58 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:40:58 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:40:58 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:43:04 [main] INFO  Main  - All authors
+
+05.05.2021 16:43:04 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:43:04 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:43:04 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:43:04 [main] INFO  Main  - Список всех книг
+05.05.2021 16:43:04 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:43:04 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:43:04 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:43:04 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:43:38 [main] INFO  Main  - All authors
+
+05.05.2021 16:43:38 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:43:38 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:43:38 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:43:38 [main] INFO  Main  - Список всех книг
+05.05.2021 16:43:38 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:43:38 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:43:38 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:43:38 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:43:41 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:44:30 [main] INFO  Main  - All authors
+
+05.05.2021 16:44:30 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:44:30 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:44:30 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:44:30 [main] INFO  Main  - Список всех книг
+05.05.2021 16:44:30 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:44:30 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:44:30 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:44:30 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:44:33 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:44:33 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:45:01 [main] INFO  Main  - All authors
+
+05.05.2021 16:45:01 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:45:01 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:45:01 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:45:01 [main] INFO  Main  - Список всех книг
+05.05.2021 16:45:01 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:45:01 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:45:01 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:45:01 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:45:04 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:45:04 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:45:55 [main] INFO  Main  - All authors
+
+05.05.2021 16:45:55 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:45:55 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:45:55 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:45:55 [main] INFO  Main  - Список всех книг
+05.05.2021 16:45:55 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:45:55 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:45:55 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:45:55 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:45:59 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:49:03 [main] INFO  Main  - All authors
+
+05.05.2021 16:49:03 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:49:03 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:49:03 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:49:03 [main] INFO  Main  - Список всех книг
+05.05.2021 16:49:03 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:49:03 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:49:03 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:49:03 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:49:41 [main] INFO  Main  - All authors
+
+05.05.2021 16:49:41 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:49:41 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:49:41 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:49:41 [main] INFO  Main  - Список всех книг
+05.05.2021 16:49:41 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:49:41 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:49:41 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:49:41 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:49:57 [main] INFO  Main  - All authors
+
+05.05.2021 16:49:57 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:49:57 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:49:57 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:49:57 [main] INFO  Main  - Список всех книг
+05.05.2021 16:49:57 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:49:57 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:49:57 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:49:57 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 16:50:01 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:51:16 [main] INFO  Main  - All authors
+
+05.05.2021 16:51:16 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 16:51:16 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 16:51:16 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 16:51:16 [main] INFO  Main  - Список всех книг
+05.05.2021 16:51:16 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:51:16 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 16:51:16 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 16:51:16 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 17:08:37 [main] INFO  Main  - All authors
+
+05.05.2021 17:08:37 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}]
+
+05.05.2021 17:08:37 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 17:08:37 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 17:08:37 [main] INFO  Main  - Список всех книг
+05.05.2021 17:08:37 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 17:08:37 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 17:08:37 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 17:08:37 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 17:08:41 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 17:08:41 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}, 
+Author{author='Hi', country='Russia'}, 
+Author{author='Hi2', country='Russia2'}]
+
+05.05.2021 17:11:09 [main] INFO  Main  - All authors
+
+05.05.2021 17:11:09 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}, 
+Author{author='Hi', country='Russia'}, 
+Author{author='Hi2', country='Russia2'}]
+
+05.05.2021 17:11:09 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 17:11:09 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 17:11:09 [main] INFO  Main  - Список всех книг
+05.05.2021 17:11:09 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 17:11:09 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 17:11:09 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 17:11:09 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 17:11:19 [main] INFO  Main  - All authors
+
+05.05.2021 17:11:19 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}, 
+Author{author='Hi', country='Russia'}, 
+Author{author='Hi2', country='Russia2'}]
+
+05.05.2021 17:11:19 [main] INFO  Main  - авторы у которых больше 1-ой книги
+05.05.2021 17:11:19 [main] INFO  Main  - [
+Author{author='Me', country='Belarus'}]
+05.05.2021 17:11:19 [main] INFO  Main  - Список всех книг
+05.05.2021 17:11:19 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='MyBook2', author='Me', released='1980', publishing_house='UR', id_book=4}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 17:11:19 [main] INFO  Main  - Книги, вышедшие в текущем и прошлом году
+05.05.2021 17:11:19 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 17:11:19 [main] INFO  Main  - Список оставшихся книг после удаления
+05.05.2021 17:11:25 [main] INFO  Main  - [
+Books{ name_of_book='MyBook', author='Me', released='2020', publishing_house='AST', id_book=2}, 
+Books{ name_of_book='Horror', author='Stephen', released='2011', publishing_house='AST', id_book=3}, 
+Books{ name_of_book='test', author='test', released='2021', publishing_house='AST', id_book=5}]
+
+05.05.2021 17:11:25 [main] INFO  Main  - [
+Author{author='Stephen', country='USA'}, 
+Author{author='Leo', country='Russia'}, 
+Author{author='Me', country='Belarus'}, 
+Author{author='Hi', country='Russia'}, 
+Author{author='Hi2', country='Russia2'}]
+

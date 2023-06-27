@@ -1,0 +1,4 @@
+﻿  Client.cpp
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\2\Client\Client\Client.cpp(48,7): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\2\Client\Client\Client.cpp(26,10): warning C4101: serverSocket: неиспользованная локальная переменная
+  Client.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\2\Client\x64\Debug\Client.exe

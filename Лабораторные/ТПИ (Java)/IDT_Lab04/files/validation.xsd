@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://msiter.ru" xmlns="http://msiter.ru" elementFormDefault="qualified">
+
+    <xs:element name="Juniors">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Junior" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="salary" type="xs:int" />
+                            <xs:element name="skill" >
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="AWFUL"/>
+                                        <xs:enumeration value="UNDER_INTERMEDIATE"/>
+                                        <xs:enumeration value="INTERMEDIATE"/>
+                                        <xs:enumeration value="UPPER_INTERMEDIATE"/>
+                                        <xs:enumeration value="ADVANCED"/>
+                                        <xs:enumeration value="IMPROVED"/>
+                                        <xs:enumeration value="SUPERIOR"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

@@ -1,0 +1,34 @@
+ipconfig	Отображает все текущие значения конфигурации сети TCP/IP и обновляет параметры протокола DHCP и системы доменных имен 
+(DNS). При использовании без параметров ipconfig отображает IPv4- и IPv6-адреса, маску подсети и шлюз по умолчанию для всех адаптеров.
+
+ping 		Проверяет подключение на уровне IP-адреса к другому компьютеру TCP/IP, отправляя сообщения запроса на эхо-запрос icMP. 
+Отображается получение соответствующих ответных сообщений echo, а также время кругового пути. ping — это основная команда TCP/IP, 
+используемая для устранения неполадок с подключением, доступностью и разрешением имен. При использовании без параметров эта команда 
+отображает содержимое справки.
+
+tracert		Это средство диагностики определяет путь к месту назначения, отправляя в место назначения эхо-запрос icMP или сообщения 
+ICMPv6 с добавочным увеличением значений полей срока жизни (TTL). Каждый маршрутизатор по пути должен уменьшать срок жизни в IP-пакете 
+по крайней мере на 1, прежде чем пересылать его. По сути, TTL является счетчиком максимального количества ссылок. Когда срок жизни 
+пакета достигает 0, маршрутизатор, как ожидается, вернет на исходный компьютер сообщение о превышении времени ICMP.
+Эта команда определяет путь путем отправки первого сообщения эхо-запроса с сроком жизни 1 и увеличения срока жизни на 1 при каждой 
+последующей передаче до тех пор, пока целевой объект не ответит или не будет достигнуто максимальное количество прыжков. Максимальное 
+число прыжков по умолчанию составляет 30, и его можно указать с помощью параметра /h.
+
+route		Displays and modifies the entries in the local IP routing table. If used without parameters, route displays help at 
+the command prompt.
+
+arp		Displays and modifies entries in the Address Resolution Protocol (ARP) cache. The ARP cache contains one or more tables 
+that are used to store IP addresses and their resolved Ethernet or Token Ring physical addresses. There is a separate table for each 
+Ethernet or Token Ring network adapter installed on your computer. Used without parameters, arp displays help information
+
+nslookup	Диагностика DNS-инфраструктуры. Для запросов в доменной системе имен (DNS) с целью получения доменного имени, 
+IP-адреса или другой информации из записей DNS.
+
+netstat		Displays active TCP connections, ports on which the computer is listening, Ethernet statistics, the IP routing table, 
+IPv4 statistics, and IPv6 statistics
+-a	Displays all active TCP connections and the TCP and UDP ports on which the computer is listening.
+-b	Displays the executable involved in creating each connection or listening port.
+
+nbtstat		Displays NetBIOS over TCP/IP (NetBT) protocol statistics, NetBIOS name tables for both the local computer and remote 
+computers, and the NetBIOS name cache. This command also allows a refresh of the NetBIOS name cache and the names registered with 
+Windows Internet Name Service (WINS)

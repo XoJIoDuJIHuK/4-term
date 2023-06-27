@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  RConsole.cpp
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\RConsole\ClientNP\RConsole.cpp(47,7): warning C4101: msg: неиспользованная локальная переменная
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\RConsole\ClientNP\RConsole.cpp(48,7): warning C4101: final_msg: неиспользованная локальная переменная
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\server test\RConsole\ClientNP\RConsole.cpp(68,6): warning C4101: n: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 115 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ClientNP.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\Lab08-10\ConcurrentServer\Release\RConsole.exe

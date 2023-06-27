@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IDT_Lab08.2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>IDT_Lab08.2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="IDT_Lab08-2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="IDT_Lab08.2:war exploded" />
+    </root>
+  </artifact>
+</component>

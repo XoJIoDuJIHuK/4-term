@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <link href="stylesReal.css" rel="stylesheet"/>
+    </head>
+
+    <body>
+
+        <div class="root-wrapper">
+
+            <div class="top-bar">
+
+                <button class="nav-button">
+                    Назад
+                </button>
+
+                <div>Сражение</div>
+
+                <button class="nav-button">
+                    В бой
+                </button>
+
+            </div>
+
+            <div class="main-frame">
+
+                <div class="armies-wrapper" id="attackers">
+                    <div class="armies-list">
+                        <div class="army-group">
+                            <img src="images/ag/1.png"/>
+                            <div>Первая группа армий</div>
+                        </div>
+                        <div class="army">
+                            <img src="images/a/1.png"/>
+                            <div>Первая армия</div>
+                        </div>
+                        <div class="division">
+                            <img src="images/d/1.png"/>
+                            <div>325. SS-Division</div>
+                        </div>
+                        <div class="division">
+                            <img src="images/d/1.png"/>
+                            <div>541. SS-Division</div>
+                        </div>
+                        <div class="division">
+                            <img src="images/d/1.png"/>
+                            <div>983. SS-Division</div>
+                        </div>
+                    </div>
+                    <img src="images/Flags/GERflag.png"/>
+                </div>
+    
+                <div class="central-column">
+                    <div class="log">
+                        <p>Дивизия №437 атакует 325. SS-Division</p>
+                        <p>Дивизия №437 наносит 35 урона 325. SS-Division</p>
+                        <p>325. SS-Division наносит 13 урона Дивизия №437</p>
+                    </div>
+                    <div class="terrain-selector">
+                        <select onclick="(e) => onTerrainChange(e)">
+                            <option value="marsh">Болото</option>
+                            <option value="forest">Лес</option>
+                            <option value="desert">Пустыня</option>
+                            <option value="jungle">Джунгли</option>
+                            <option value="plains">Равнины</option>
+                            <option value="urban">Город</option>
+                        </select>
+                        <img src="images/Terrain/marsh.png"/>
+                    </div>
+                </div>
+
+                <div class="armies-wrapper" id="defenders">
+                    <div class="armies-list">
+                        <div class="army-group">
+                            <img src="images/ag/1.png"/>
+                            <div>Первая группа армий</div>
+                        </div>
+                        <div class="army">
+                            <img src="images/a/1.png"/>
+                            <div>Первая армия</div>
+                        </div>
+                        <div class="division">
+                            <img src="images/d/1.png"/>
+                            <div>325. SS-Division</div>
+                        </div>
+                        <div class="division">
+                            <img src="images/d/1.png"/>
+                            <div>541. SS-Division</div>
+                        </div>
+                        <div class="division">
+                            <img src="images/d/1.png"/>
+                            <div>983. SS-Division</div>
+                        </div>
+                    </div>
+                    <img src="images/Flags/SOVflag.png"/>
+                </div>
+    
+            </div>
+
+        </div>
+
+    </body>
+
+</html>

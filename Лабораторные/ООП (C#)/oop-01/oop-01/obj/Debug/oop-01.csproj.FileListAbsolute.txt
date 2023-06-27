@@ -1,0 +1,33 @@
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\bin\Debug\oop-01.exe.config
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\bin\Debug\oop-01.exe
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\bin\Debug\oop-01.pdb
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\obj\Debug\oop-01.csproj.AssemblyReference.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\obj\Debug\oop-01.csproj.SuggestedBindingRedirects.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\obj\Debug\oop_01.Form1.resources
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\obj\Debug\oop_01.Properties.Resources.resources
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\obj\Debug\oop-01.csproj.GenerateResource.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\obj\Debug\oop-01.csproj.CoreCompileInputs.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\obj\Debug\oop-01.exe
+D:\_УЧЁБА_\Лабораторные\OOP-4-term\oop-01\oop-01\obj\Debug\oop-01.pdb
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\bin\Debug\oop-01.exe.config
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\bin\Debug\oop-01.exe
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\bin\Debug\oop-01.pdb
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\obj\Debug\oop-01.csproj.AssemblyReference.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\obj\Debug\oop-01.csproj.SuggestedBindingRedirects.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\obj\Debug\oop_01.Form1.resources
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\obj\Debug\oop_01.Properties.Resources.resources
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\obj\Debug\oop-01.csproj.GenerateResource.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\obj\Debug\oop-01.csproj.CoreCompileInputs.cache
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\obj\Debug\oop-01.exe
+D:\_УЧЁБА_\Лабораторные\OOP-4-term (С#)\oop-01\oop-01\obj\Debug\oop-01.pdb
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\bin\Debug\oop-01.exe.config
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\bin\Debug\oop-01.exe
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\bin\Debug\oop-01.pdb
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\obj\Debug\oop-01.csproj.AssemblyReference.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\obj\Debug\oop-01.csproj.SuggestedBindingRedirects.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\obj\Debug\oop_01.Form1.resources
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\obj\Debug\oop_01.Properties.Resources.resources
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\obj\Debug\oop-01.csproj.GenerateResource.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\obj\Debug\oop-01.csproj.CoreCompileInputs.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\obj\Debug\oop-01.exe
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\oop-01\oop-01\obj\Debug\oop-01.pdb

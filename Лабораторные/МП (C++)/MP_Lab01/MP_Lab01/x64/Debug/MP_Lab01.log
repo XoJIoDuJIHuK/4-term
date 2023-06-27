@@ -1,0 +1,4 @@
+﻿  Auxil.cpp
+D:\_УЧЁБА_\Лабораторные\Матпрога\MP_Lab01\MP_Lab01\Auxil.cpp(33,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\_УЧЁБА_\Лабораторные\Матпрога\MP_Lab01\MP_Lab01\Auxil.cpp(48,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  MP_Lab01.vcxproj -> D:\_УЧЁБА_\Лабораторные\Матпрога\MP_Lab01\x64\Debug\MP_Lab01.exe

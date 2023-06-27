@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  ClientS.cpp
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\5\ClientS\ClientS.cpp(105,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  105 of 111 functions (94.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ClientS.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\5\x64\Release\ClientS.exe

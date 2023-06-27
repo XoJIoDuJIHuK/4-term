@@ -1,0 +1,68 @@
+﻿<Window x:Class="Lab8_SQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab8_SQL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900">
+    <Grid Background="Aqua">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock FontSize="30" Text="Fitness Center Data" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <ScrollViewer x:Name="SW" VerticalScrollBarVisibility="Auto">
+
+                
+
+                    <DataGrid AutoGenerateColumns="False" x:Name="phonesGrid">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Id}" Header="id" Width="70"/>
+                            <DataGridTextColumn Binding="{Binding Name}" Header="Имя" Width="60"/>
+                            <!--<DataGridTextColumn Binding="{Binding last_name}" Header="Фамилия" Width="100"/>-->
+                            <DataGridTextColumn Binding="{Binding date_of_birth}" Header="Дата рождения" Width="130"/>
+                        <DataGridTextColumn Binding="{Binding PlanId}" Header="код плана тренировки" Width="130"/>
+                            <!--<DataGridTextColumn Binding="{Binding email}" Header="email" Width="50"/>
+                            <DataGridTextColumn Binding="{Binding phone}" Header="Телефон" Width="40"/>
+                            <DataGridTextColumn Binding="{Binding address}" Header="Адрес" Width="40"/>
+                            <DataGridTextColumn Binding="{Binding photo}" Header="Фото" Width="100"/>-->
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+
+
+            </ScrollViewer>
+        </Grid>
+
+        <Button Content="Добавление" HorizontalAlignment="Left" Margin="48,54,0,0" Grid.Row="2" VerticalAlignment="Top" Height="45" Width="92" Click="Button_Click"/>
+        <Button Content="Удаление" HorizontalAlignment="Left" Margin="172,53,0,0" Grid.Row="2" VerticalAlignment="Top" Height="45" Width="92" Click="Button_Click_1"/>
+        <Button Content="Редактирование" HorizontalAlignment="Left" Margin="293,56,0,0" Grid.Row="2" VerticalAlignment="Top" Height="45" Width="109" Click="Button_Click_2"/>
+        <Button Content="Просмотр записей" HorizontalAlignment="Left" Margin="424,53,0,0" Grid.Row="2" VerticalAlignment="Top" Height="45" Width="116" Click="Button_Click_3"/>
+        <Button Content="Сортировка" HorizontalAlignment="Left" Margin="569,54,0,0" Grid.Row="2" VerticalAlignment="Top" Height="45" Width="116" Click="Button_Click_4"/>
+
+        <!--дописать запрос-->
+        <!--<Button Content="Люди по программе" HorizontalAlignment="Left" Margin="46,126,0,0" Grid.Row="2" VerticalAlignment="Top" Height="45" Width="135" Click="Button_Click_6"/>-->
+
+
+        <Button Content="Add Proc" HorizontalAlignment="Left" Margin="781,19,0,0" Grid.Row="2" VerticalAlignment="Top" Height="53" Width="77" Click="Button_Click_5"/>
+        
+        
+        <Button Content="Undor" HorizontalAlignment="Left" Margin="500,10,0,0" Grid.Row="2" VerticalAlignment="Top" Click="Button_Click_6"/>
+        <Button Content="Redo" HorizontalAlignment="Left" Margin="587,11,0,0" Grid.Row="2" VerticalAlignment="Top" Click="Button_Click_7"/>
+        <Button Content="Поиск" HorizontalAlignment="Left" Margin="753,127,0,0" Grid.Row="2" VerticalAlignment="Top" Click="Button_Click_8"/>
+
+
+    </Grid>
+</Window>

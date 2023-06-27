@@ -1,0 +1,1 @@
+select * from ЗАКАЗЫ where Заказчик = 'Google' order by Дата_поставки asc;

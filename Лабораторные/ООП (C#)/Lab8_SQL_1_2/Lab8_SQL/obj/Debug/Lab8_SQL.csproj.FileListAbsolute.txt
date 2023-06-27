@@ -1,0 +1,401 @@
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Lab8_SQL.exe.config
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Lab8_SQL.exe
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Lab8_SQL.pdb
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Azure.Core.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Azure.Identity.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Buffers.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Memory.Data.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Memory.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Numerics.Vectors.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Security.AccessControl.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Security.Permissions.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Security.Principal.Windows.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Text.Encodings.Web.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Text.Json.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.ValueTuple.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Azure.Core.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Azure.Identity.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Buffers.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Memory.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Memory.Data.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Numerics.Vectors.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Security.AccessControl.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Security.Permissions.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Security.Principal.Windows.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Text.Encodings.Web.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Text.Json.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\System.ValueTuple.xml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.AssemblyReference.cache
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.SuggestedBindingRedirects.cache
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\MainWindow.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\App.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.cache
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.lref
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\MainWindow.baml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.g.resources
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.Properties.Resources.resources
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.GenerateResource.cache
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.CoreCompileInputs.cache
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.CopyComplete
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.exe
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\Lab8_SQL.pdb
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\AddForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\AddForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\RemoveForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\RemoveForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\EditForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\EditForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\ShowForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\ShowForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\SortForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL\Lab8_SQL\obj\Debug\SortForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.AssemblyReference.cache
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.SuggestedBindingRedirects.cache
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\AddForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\EditForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\MainWindow.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\QueryForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\RemoveForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\ShowForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SortForm.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\App.g.cs
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.cache
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.lref
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.exe
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.pdb
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.exe.config
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.exe
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.pdb
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Core.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Identity.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Buffers.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.Data.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Numerics.Vectors.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.AccessControl.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Permissions.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Principal.Windows.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Encodings.Web.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Json.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.ValueTuple.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Core.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Identity.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Buffers.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.Data.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Numerics.Vectors.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.AccessControl.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Permissions.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Principal.Windows.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Encodings.Web.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Json.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.ValueTuple.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\AddForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\EditForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\MainWindow.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\RemoveForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\ShowForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SortForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\QueryForm.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.g.resources
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.Properties.Resources.resources
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.GenerateResource.cache
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.CoreCompileInputs.cache
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.CopyComplete
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\App.baml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.xml
+D:\2k2s\OOP_MY\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.exe.config
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.exe
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.pdb
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Core.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Identity.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Buffers.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.Data.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Numerics.Vectors.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.AccessControl.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Permissions.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Principal.Windows.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Encodings.Web.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Json.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.ValueTuple.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Core.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Identity.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Buffers.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.Data.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Numerics.Vectors.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.AccessControl.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Permissions.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Principal.Windows.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Encodings.Web.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Json.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.ValueTuple.xml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.AssemblyReference.cache
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.SuggestedBindingRedirects.cache
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\AddForm.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\EditForm.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\MainWindow.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\QueryForm.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\RemoveForm.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\ShowForm.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SortForm.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\App.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.cache
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.lref
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\App.baml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\AddForm.baml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\EditForm.baml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\MainWindow.baml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\QueryForm.baml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\RemoveForm.baml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\ShowForm.baml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SortForm.baml
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.g.resources
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.Properties.Resources.resources
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.GenerateResource.cache
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.CoreCompileInputs.cache
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.CopyComplete
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.exe
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.pdb
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SearchForm.g.cs
+D:\BSTU\2course\2term\ООП\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SearchForm.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.exe.config
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.exe
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Lab8_SQL.pdb
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Core.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Identity.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Buffers.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.Data.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Numerics.Vectors.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.AccessControl.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Permissions.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Principal.Windows.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Encodings.Web.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Json.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.ValueTuple.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Core.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Azure.Identity.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Buffers.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Memory.Data.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Numerics.Vectors.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.AccessControl.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Permissions.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Security.Principal.Windows.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Encodings.Web.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Text.Json.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\System.ValueTuple.xml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.AssemblyReference.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.SuggestedBindingRedirects.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\AddForm.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\EditForm.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\MainWindow.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\QueryForm.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\RemoveForm.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SearchForm.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\ShowForm.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SortForm.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\App.g.cs
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL_MarkupCompile.lref
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\App.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\AddForm.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\EditForm.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\MainWindow.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\QueryForm.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\RemoveForm.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SearchForm.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\ShowForm.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\SortForm.baml
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.g.resources
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.Properties.Resources.resources
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.GenerateResource.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.CoreCompileInputs.cache
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.csproj.CopyComplete
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.exe
+D:\_УЧЁБА_\Лабораторные\ООП (C#)\Lab8_SQL_1_2\Lab8_SQL\obj\Debug\Lab8_SQL.pdb

@@ -1,0 +1,16 @@
+﻿<Application x:Class="Lab8_SQL.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lab8_SQL"
+             StartupUri="MainWindow.xaml"
+             xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!--<v:String x:Key="MyConnectionString"> Persist Security Info=False;Integrated Security=true;Initial Catalog=fitness_center;Server=DANILA;Encrypt=False;</v:String>-->
+            <v:String x:Key="OtherEntersMyConnectionString">Server=ARTYOM;Database=fitness_center;Trusted_Connection=True;Encrypt=False</v:String>
+            <v:String x:Key="FirstEnterMyConnectionString">Server=ARTYOM;Database=master;Trusted_Connection=True;Encrypt=False</v:String>
+
+            <v:String x:Key="TestEF">Server=ARTYOM;Database=fitness_center_lab99;Trusted_Connection=True;Encrypt=False</v:String>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

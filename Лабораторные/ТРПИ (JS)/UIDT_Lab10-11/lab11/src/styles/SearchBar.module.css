@@ -1,0 +1,355 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url("./../fonts/Montserrat/Montserrat-VariableFont_wght.ttf");
+}
+.bar {
+  width: 100%;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.03);
+  background: white;
+  border-radius: 10px;
+}
+@media (min-width: 1486px) {
+  .bar .desktopForm {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    border-radius: 10px;
+  }
+  .bar .desktopForm .inputsWrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 20%);
+    justify-content: space-between;
+  }
+  .bar .desktopForm .inputsWrapper .location {
+    grid-column: 1;
+  }
+  .bar .desktopForm .inputsWrapper .schedule {
+    grid-column: 2;
+  }
+  .bar .desktopForm .inputsWrapper .busyness {
+    grid-column: 3;
+  }
+  .bar .desktopForm .inputsWrapper .experience {
+    grid-column: 4;
+  }
+  .bar .desktopForm .inputsWrapper .salary {
+    grid-column: 5;
+  }
+  .bar .desktopForm .inputsWrapper .schedule .radioButtons, .bar .desktopForm .inputsWrapper .busyness .radioButtons, .bar .desktopForm .inputsWrapper .experience .radioButtons {
+    position: absolute;
+    width: max-content;
+    top: 130px;
+    margin-left: -10px;
+    display: flex;
+    flex-direction: column;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;
+    z-index: 2;
+  }
+  .bar .desktopForm .inputsWrapper .schedule .radioButtons .radioButtonWrapper, .bar .desktopForm .inputsWrapper .busyness .radioButtons .radioButtonWrapper, .bar .desktopForm .inputsWrapper .experience .radioButtons .radioButtonWrapper {
+    margin-top: 5px;
+  }
+  .bar .desktopForm .inputsWrapper .schedule .radioButtons .radioButtonWrapper input, .bar .desktopForm .inputsWrapper .busyness .radioButtons .radioButtonWrapper input, .bar .desktopForm .inputsWrapper .experience .radioButtons .radioButtonWrapper input {
+    margin-right: 5px;
+  }
+  .bar .desktopForm .inputsWrapper .location, .bar .desktopForm .inputsWrapper .schedule, .bar .desktopForm .inputsWrapper .busyness, .bar .desktopForm .inputsWrapper .experience {
+    border-right: 1px #FAFAFA;
+  }
+  .bar .desktopForm .inputsWrapper .location, .bar .desktopForm .inputsWrapper .schedule, .bar .desktopForm .inputsWrapper .busyness, .bar .desktopForm .inputsWrapper .experience, .bar .desktopForm .inputsWrapper .salary {
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+  }
+  .bar .desktopForm .inputsWrapper .location .textInput, .bar .desktopForm .inputsWrapper .schedule .textInput, .bar .desktopForm .inputsWrapper .busyness .textInput, .bar .desktopForm .inputsWrapper .experience .textInput, .bar .desktopForm .inputsWrapper .salary .textInput {
+    max-width: 120px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+  }
+  .bar .desktopForm .inputsWrapper .location div, .bar .desktopForm .inputsWrapper .schedule div, .bar .desktopForm .inputsWrapper .busyness div, .bar .desktopForm .inputsWrapper .experience div, .bar .desktopForm .inputsWrapper .salary div {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .bar .desktopForm .inputsWrapper .location img, .bar .desktopForm .inputsWrapper .schedule img, .bar .desktopForm .inputsWrapper .busyness img, .bar .desktopForm .inputsWrapper .experience img, .bar .desktopForm .inputsWrapper .salary img {
+    width: 20px;
+    margin-right: 10px;
+  }
+  .bar .desktopForm .submitButton {
+    width: 90px;
+  }
+  .bar .desktopForm .submitButton button {
+    height: 100%;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 14px;
+    line-height: 17px;
+  }
+}
+@media (min-width: 834px) and (max-width: 1486px) {
+  .bar .desktopForm {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    font-size: 12px;
+    border-radius: 10px;
+  }
+  .bar .desktopForm .inputsWrapper {
+    width: 85%;
+    display: grid;
+    grid-template-columns: 31% 35% 34%;
+    grid-template-rows: 100%;
+    justify-content: space-between;
+  }
+  .bar .desktopForm .inputsWrapper .location {
+    grid-column: 1;
+  }
+  .bar .desktopForm .inputsWrapper .salary {
+    grid-column: 2;
+  }
+  .bar .desktopForm .inputsWrapper .location, .bar .desktopForm .inputsWrapper .salary {
+    display: flex;
+    align-items: center;
+  }
+  .bar .desktopForm .inputsWrapper .location .textInput, .bar .desktopForm .inputsWrapper .salary .textInput {
+    max-width: 10vw;
+    font-weight: 700;
+  }
+  .bar .desktopForm .inputsWrapper .location img, .bar .desktopForm .inputsWrapper .salary img {
+    width: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .bar .desktopForm .inputsWrapper .salary img {
+    margin-right: 20px;
+  }
+  .bar .desktopForm .inputsWrapper .filterButton {
+    grid-column: 3;
+    width: 100%;
+    height: 100%;
+    background: none;
+    font-family: Montserrat, sans-serif;
+    color: rgb(73, 98, 126);
+    font-weight: 700;
+    letter-spacing: 0;
+    text-align: center;
+    border: 0;
+  }
+  .bar .desktopForm .inputsWrapper .additionalOptions {
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    width: 62.9vw;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+    align-items: center;
+  }
+  .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+  }
+  .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .salary, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .schedule, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .busyness, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .experience {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    font-size: 12px;
+  }
+  .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .salary label, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .schedule label, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .busyness label, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .experience label {
+    font-weight: 700;
+    margin-top: 28px;
+    margin-bottom: 2px;
+  }
+  .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .salary .radioButtonWrapper, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .schedule .radioButtonWrapper, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .busyness .radioButtonWrapper, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .experience .radioButtonWrapper {
+    display: flex;
+    margin-top: 11px;
+  }
+  .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .salary .radioButtonWrapper label, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .schedule .radioButtonWrapper label, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .busyness .radioButtonWrapper label, .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .experience .radioButtonWrapper label {
+    font-weight: 500;
+    margin: 0 0 0 5px;
+  }
+  .bar .desktopForm .inputsWrapper .additionalOptions .optionsWrapper .experience {
+    margin-bottom: 20px;
+  }
+  .bar .desktopForm .submitButton {
+    width: 15%;
+  }
+  .bar .desktopForm .submitButton button {
+    height: 100%;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 12px;
+    line-height: 17px;
+  }
+}
+@media (max-width: 834px) {
+  .bar form {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    border-radius: 10px;
+  }
+  .bar form .inputsWrapper {
+    width: 85%;
+    display: grid;
+    grid-template-columns: 46% 54%;
+    grid-template-rows: 100%;
+    justify-content: space-between;
+  }
+  .bar form .inputsWrapper .location {
+    width: 100%;
+    grid-column: 1;
+    display: flex;
+    align-items: center;
+  }
+  .bar form .inputsWrapper .location .textInput {
+    max-width: 10vw;
+    font-weight: 700;
+    font-size: 10px;
+  }
+  .bar form .inputsWrapper .location img {
+    width: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .bar form .inputsWrapper .filterButton {
+    grid-column: 2;
+    width: 100%;
+    height: 100%;
+    background: none;
+    font-family: Montserrat, sans-serif;
+    color: rgb(73, 98, 126);
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 0;
+    text-align: center;
+    border: 0;
+  }
+  .bar form .inputsWrapper .additionalOptions {
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    width: 68vw;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+    align-items: center;
+  }
+  .bar form .inputsWrapper .additionalOptions .optionsWrapper {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+  }
+  .bar form .inputsWrapper .additionalOptions .optionsWrapper .salary, .bar form .inputsWrapper .additionalOptions .optionsWrapper .schedule, .bar form .inputsWrapper .additionalOptions .optionsWrapper .busyness, .bar form .inputsWrapper .additionalOptions .optionsWrapper .experience {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+  }
+  .bar form .inputsWrapper .additionalOptions .optionsWrapper .salary label, .bar form .inputsWrapper .additionalOptions .optionsWrapper .schedule label, .bar form .inputsWrapper .additionalOptions .optionsWrapper .busyness label, .bar form .inputsWrapper .additionalOptions .optionsWrapper .experience label {
+    font-weight: 700;
+    margin-top: 28px;
+    margin-bottom: 2px;
+  }
+  .bar form .inputsWrapper .additionalOptions .optionsWrapper .salary .radioButtonWrapper, .bar form .inputsWrapper .additionalOptions .optionsWrapper .schedule .radioButtonWrapper, .bar form .inputsWrapper .additionalOptions .optionsWrapper .busyness .radioButtonWrapper, .bar form .inputsWrapper .additionalOptions .optionsWrapper .experience .radioButtonWrapper {
+    margin-top: 11px;
+    display: flex;
+    align-items: center;
+  }
+  .bar form .inputsWrapper .additionalOptions .optionsWrapper .salary .radioButtonWrapper label, .bar form .inputsWrapper .additionalOptions .optionsWrapper .schedule .radioButtonWrapper label, .bar form .inputsWrapper .additionalOptions .optionsWrapper .busyness .radioButtonWrapper label, .bar form .inputsWrapper .additionalOptions .optionsWrapper .experience .radioButtonWrapper label {
+    font-weight: 500;
+    margin: 0 0 0 5px;
+  }
+  .bar form .inputsWrapper .additionalOptions .optionsWrapper .salary {
+    font-weight: 500;
+  }
+  .bar form .inputsWrapper .additionalOptions .optionsWrapper .salary .textInput {
+    border: 1px #9AAAB5 solid;
+    padding: 8px 12px 7px 12px;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  .bar form .inputsWrapper .additionalOptions .optionsWrapper .experience {
+    margin-bottom: 20px;
+  }
+  .bar form .submitButton {
+    width: 15%;
+  }
+  .bar form .submitButton button {
+    height: 100%;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 10px;
+    line-height: 17px;
+  }
+}
+.bar .inputsWrapper {
+  width: 100%;
+  display: grid;
+  justify-content: space-between;
+}
+.bar .inputsWrapper .schedule .radioButtons, .bar .inputsWrapper .busyness .radioButtons, .bar .inputsWrapper .experience .radioButtons {
+  display: flex;
+  justify-self: start;
+  flex-direction: column;
+  background: white;
+}
+.bar .inputsWrapper .schedule .radioButtons .radioButtonWrapper, .bar .inputsWrapper .busyness .radioButtons .radioButtonWrapper, .bar .inputsWrapper .experience .radioButtons .radioButtonWrapper {
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+}
+.bar .inputsWrapper .schedule .radioButtons .radioButtonWrapper input, .bar .inputsWrapper .busyness .radioButtons .radioButtonWrapper input, .bar .inputsWrapper .experience .radioButtons .radioButtonWrapper input {
+  margin-right: 5px;
+}
+.bar .inputsWrapper .location, .bar .inputsWrapper .schedule, .bar .inputsWrapper .busyness, .bar .inputsWrapper .experience {
+  border-right: 1px #FAFAFA;
+}
+.bar .inputsWrapper .location, .bar .inputsWrapper .schedule, .bar .inputsWrapper .busyness, .bar .inputsWrapper .experience, .bar .inputsWrapper .salary {
+  display: flex;
+  justify-self: start;
+  color: rgb(73, 98, 126);
+}
+.bar .inputsWrapper .location .textInput, .bar .inputsWrapper .schedule .textInput, .bar .inputsWrapper .busyness .textInput, .bar .inputsWrapper .experience .textInput, .bar .inputsWrapper .salary .textInput {
+  font-family: Montserrat, sans-serif;
+  color: rgb(73, 98, 126);
+  letter-spacing: 0;
+  text-align: left;
+  border: 0;
+}
+.bar .inputsWrapper .location div, .bar .inputsWrapper .schedule div, .bar .inputsWrapper .busyness div, .bar .inputsWrapper .experience div, .bar .inputsWrapper .salary div {
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-align: left;
+}
+.bar .submitButton {
+  align-self: center;
+  height: 100%;
+}
+.bar .submitButton button {
+  height: 100%;
+  width: 100%;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-width: 0;
+  background: rgb(0, 112, 251);
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0;
+  color: white;
+  text-align: center;
+}
+
+label {
+  font-family: Montserrat, sans-serif;
+}
+
+/*# sourceMappingURL=SearchBar.module.css.map */

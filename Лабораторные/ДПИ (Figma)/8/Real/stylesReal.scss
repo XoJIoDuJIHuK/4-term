@@ -1,0 +1,154 @@
+body {
+    background-color: #668266;
+}
+
+$defaultBorderRadius: 0.26vw;
+
+.root-wrapper {
+    width: 100%;
+    margin: repeat(4, 1.04vw);
+    flex-direction: column;
+    display: flex;
+
+    .top-bar {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        margin-bottom: 1.04vw;
+
+        font-family: Roboto;
+        font-size: 2.5vw;
+        font-weight: 400;
+        color: #ffffff;
+
+        button {
+            width: 23.7vw;
+            font-family: Roboto;
+            font-size: 2.5vw;
+            font-weight: 400;
+            background-color: #475448;
+            border-width: 0;
+            border-radius: $defaultBorderRadius * 2;
+            color: #ffffff
+        }
+    }
+
+    .main-frame {
+        width: 100%;
+        height: min-content;
+        display: grid;
+        grid-template-columns: 23.7vw 1.04vw 48.44vw 1.04vw 23.7vw;
+
+        #attackers {
+            grid-column-start: 1;
+        }
+
+        #defenders {
+            grid-column: 5;
+        }
+
+        .armies-wrapper {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            width: 100%;
+            border-radius: $defaultBorderRadius * 2;
+            background-color: #475448;
+
+            .armies-list {
+                flex-direction: column;
+                padding: $defaultBorderRadius;
+                display: flex;
+                align-items: flex-end;
+    
+                .army-group, .army, .division {
+                    height: 3.125vw;
+                    display: flex;
+                    justify-content: flex-start;
+    
+                    div {
+                        color: #ffffff;
+                        font-size: 1.04vw;
+                        margin-left: 10px;
+                    }
+                }
+    
+                .army-group {
+                    width: 23.2vw;
+                }
+                .army {
+                    width: 21.6vw;
+                }
+                .division {
+                    width: 20.1vw;
+                }
+    
+                div {
+                    font-family: Roboto;
+                    font-size: 25px;
+                    font-weight: 400;
+                    line-height: 29px;
+    
+                    border-radius: $defaultBorderRadius;
+    
+                    background-color: #668266;
+    
+                    img {
+                        margin: 0;
+                        border-top-left-radius: $defaultBorderRadius;
+                        border-bottom-left-radius: $defaultBorderRadius;
+                        height: 100%;
+                    }
+                }
+            }
+
+            img {
+                border-radius: $defaultBorderRadius;
+                margin: $defaultBorderRadius;
+            }
+        }
+
+
+        .central-column {
+            grid-column: 3;
+            display: flex;
+            flex-direction: column;
+
+            .log {
+                border-radius: $defaultBorderRadius * 2;
+                background-color: #475448;
+                color: #ffffff;
+                height: 73vh;
+                font-size: 1.3vw;
+                margin-bottom: $defaultBorderRadius * 4;
+                padding: $defaultBorderRadius * 2;
+
+                p {
+                    margin: 0;
+                }
+            }
+
+            .terrain-selector {
+                height: 13.66vw;
+                background-color: #475448;
+                display: flex;
+                justify-content: space-between;
+                padding: $defaultBorderRadius;
+                border-radius: $defaultBorderRadius * 2;
+
+                select {
+                    background-color: #668266;
+                    color: #ffffff;
+                    width: 49.5%;
+                    font-size: 2.5vw;
+                    text-align: center;
+                    border-radius: $defaultBorderRadius;
+                }
+                img {
+                    width: 49.5%;
+                    border-radius: $defaultBorderRadius;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"name":"Good-2","invNumber":324,"size":0.5,"weight":345.0,"type":["Little good","More little good"],"arrivalDate":{"year":2022,"month":11,"day":9},"quantity":56,"price":3436,"producers":[{"organisation":"Samsung","country":1,"adress":"ZXC str., 32a","telNumber":290321235}]}

@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url("./../fonts/Montserrat/Montserrat-VariableFont_wght.ttf");
+}
+
+$desktop-border-radius: 10px;
+
+.bar {
+    width: 100%;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.03);
+    background: white;
+    border-radius: 10px;
+
+    @media (min-width: 1px) {
+        .desktopForm {
+            width: 100%;
+            height: 60px;
+            display: flex;
+            border-radius: $desktop-border-radius;
+
+            .inputsWrapper {
+                display: grid;
+                grid-template-columns: repeat(5, 20%);
+                justify-content: space-between;
+
+                .location {
+                    grid-column: 1;
+                }
+                .schedule {
+                    grid-column: 2;
+                }
+                .busyness {
+                    grid-column: 3;
+                }
+                .experience {
+                    grid-column: 4;
+                }
+                .salary {
+                    grid-column: 5;
+                }
+
+                .schedule, .busyness, .experience {
+                    .radioButtons {
+                        position: absolute;
+                        width: max-content;
+                        top: 150px;
+                        margin-left: -10px;
+                        display: flex;
+                        flex-direction: column;
+                        border-bottom-left-radius: $desktop-border-radius;
+                        border-bottom-right-radius: $desktop-border-radius;
+                        padding: 10px;
+                        z-index: 2;
+
+                        .radioButtonWrapper {
+
+                            input {
+                                margin-right: 5px;
+                            }
+                            margin-top: 5px;
+                        }
+                    }
+                }
+
+                .location, .schedule, .busyness, .experience {
+                    border-right: 1px #FAFAFA;
+                }
+
+                .location, .schedule, .busyness, .experience, .salary {
+                    padding-left: 20px;
+                    display: flex;
+                    align-items: center;
+                    font-size: 12px;
+
+                    .textInput {
+                        max-width: 120px;
+                        font-size: 12px;
+                        font-weight: 700;
+                        line-height: 15px;
+                    }
+
+                    div {
+                        font-size: 12px;
+                        line-height: 15px;
+                    }
+
+                    img {
+                        width: 20px;
+                        margin-right: 10px;
+                    }
+                }
+            }
+
+            .submitButton {
+                width: 90px;
+
+                button {
+                    height: 100%;
+                    width: 100%;
+                    border-top-right-radius: $desktop-border-radius;
+                    border-bottom-right-radius: $desktop-border-radius;
+                    font-size: 14px;
+                    line-height: 17px;
+                }
+            }
+        }
+    }
+
+    .inputsWrapper {
+        width: 100%;
+        display: grid;
+        justify-content: space-between;
+
+        .schedule, .busyness, .experience {
+
+            .radioButtons {
+                display: flex;
+                justify-self: start;
+                flex-direction: column;
+                background: white;
+
+                .radioButtonWrapper {
+
+                    input {
+                        margin-right: 5px;
+                    }
+                    margin-top: 5px;
+                    display: flex;
+                    align-items: center;
+                }
+            }
+        }
+
+        .location, .schedule, .busyness, .experience {
+            border-right: 1px #FAFAFA;
+        }
+
+        .location, .schedule, .busyness, .experience, .salary {
+            display: flex;
+            justify-self: start;
+            color: rgba(73, 98, 126, 1);
+
+            .textInput {
+                font-family: Montserrat, sans-serif;
+                color: rgba(73, 98, 126, 1);
+                letter-spacing: 0;
+                text-align: left;
+                border: 0;
+            }
+
+            div {
+                font-family: Montserrat, sans-serif;
+                font-weight: 700;
+                letter-spacing: 0;
+                text-align: left;
+            }
+
+            img {
+            }
+        }
+    }
+
+    .submitButton {
+        align-self: center;
+        height: 100%;
+
+        button {
+            height: 100%;
+            width: 100%;
+            border-top-right-radius: $desktop-border-radius;
+            border-bottom-right-radius: $desktop-border-radius;
+            border-width: 0;
+            background: rgba(0, 112, 251, 1);
+            font-family: Montserrat, sans-serif;
+            font-weight: 700;
+            letter-spacing: 0;
+            color: white;
+            text-align: center;
+        }
+    }
+}
+label {
+    font-family: Montserrat, sans-serif;
+}

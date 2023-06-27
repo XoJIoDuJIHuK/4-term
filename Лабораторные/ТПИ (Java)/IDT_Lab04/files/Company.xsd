@@ -1,0 +1,14 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+    <complexType name="">
+        <
+    </complexType>
+    <complexType name="Company">
+        <element name="engineers">
+            <complexType>
+                <sequence>
+                    <element type="Staff"
+                </sequence>
+            </complexType>
+        </element>
+    </complexType>
+</schema>

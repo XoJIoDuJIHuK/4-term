@@ -1,0 +1,43 @@
+Title: Good1
+Inventory number: 3454
+Size: 1m^3
+Weight: 1kg
+Type: [
+Little good
+]
+Date: 8.3.2023
+Quantity: 42
+Price: 1225464
+Producers: [
+Organisation: Nokia, Country: Eurasia, Address: Qwerty str., 23, Phone number: 783654
+]
+Title: Good3
+Inventory number: 2
+Size: 0,1m^3
+Weight: 10kg
+Type: [
+Little good
+More little good
+God damn little good
+]
+Date: 13.3.2023
+Quantity: 15
+Price: 6543
+Producers: [
+Organisation: Samsung, Country: Oceania, Address: ZXC str., 32a, Phone number: 290321235
+]
+Title: Good2
+Inventory number: 13454
+Size: 0,1m^3
+Weight: 10kg
+Type: [
+Little good
+More little good
+God damn little good
+]
+Date: 23.3.2023
+Quantity: 27
+Price: 145464
+Producers: [
+Organisation: Apple, Country: Eastasia, Address: Orwell str., 56878, Phone number: 34982
+]

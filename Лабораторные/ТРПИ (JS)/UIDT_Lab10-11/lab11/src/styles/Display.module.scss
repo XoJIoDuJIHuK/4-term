@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+$desktop-border-radius: 10px;
+
+@media (min-width: 1px) {
+    .display {
+        position: absolute;
+        top: 175px;
+        display: inline-flex;
+        width: 723px;
+        background: white;
+        padding: 20px 0px 20px 0;
+        box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.1);
+        border-radius: $desktop-border-radius;
+
+        .container {
+            width: 100%;
+            display: grid;
+            grid-template-columns: 4.5% 91% 4.5%;
+
+            div {
+                grid-column: 2;
+            }
+
+            .topBar {
+                display: flex;
+
+                .imageWrapper {
+                    width: 130px;
+                    height: 84px;
+                }
+
+                .headersWrapper {
+                    height: 60px;
+                    margin-top: 11px;
+
+                    .titleWrapper {
+                        .title {
+                            font-size: 20px;
+                            line-height: 24px;
+                            grid-row: 1;
+                        }
+                    }
+                    .companyInfoWrapper {
+                        .companyInfo {
+                            font-size: 10px;
+                            line-height: 12px;
+                            grid-row: 2;
+                        }
+                    }
+                }
+
+                .closeButtonWrapper {
+                    display: none;
+                }
+            }
+
+            .salary {
+                margin-top: 27px;
+                margin-bottom: 27px;
+                font-size: 20px;
+                line-height: 24px;
+            }
+
+            .description {
+                font-size: 14px;
+                line-height: 20px;
+            }
+        }
+    }
+}
+
+.display {
+    font-family: Montserrat, monospace;
+    text-align: left;
+    background: white;
+    box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.1);
+    padding-bottom: 20px;
+    border-radius: $desktop-border-radius;
+
+    .container {
+        width: 100%;
+        display: grid;
+
+        .topBar {
+            display: flex;
+
+            .imageWrapper {
+                display: flex;
+                justify-content: center;
+                align-items: stretch;
+            }
+
+            .headersWrapper {
+                display: grid;
+                grid-template-rows: auto auto;
+
+                .titleWrapper {
+                    .title {
+                        font-weight: 700;
+                        letter-spacing: 0;
+                        text-align: left;
+                        grid-row: 1;
+                    }
+                }
+                .companyInfoWrapper {
+                    .companyInfo {
+                        font-family: Mntserrat, monospace;
+                        font-weight: 500;
+                        letter-spacing: 0;
+                        color: rgba(154, 170, 181, 1);
+                        grid-row: 2;
+                    }
+                }
+                .titleWrapper, .companyInfoWrapper {
+                    display: flex;
+                    align-items: center;
+                }
+            }
+        }
+
+        .salary {
+            width: 100%;
+            font-weight: 700;
+            letter-spacing: 0;
+        }
+
+        .description {
+            width: 100%;
+            font-weight: 500;
+            letter-spacing: 0;
+            text-align: justify;
+        }
+    }
+}

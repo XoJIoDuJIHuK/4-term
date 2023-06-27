@@ -1,0 +1,265 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 1486px) {
+  .display {
+    position: absolute;
+    top: 175px;
+    display: inline-flex;
+    width: 723px;
+    background: white;
+    padding: 20px 0px 20px 0;
+    box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  .display .container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4.5% 91% 4.5%;
+  }
+  .display .container div {
+    grid-column: 2;
+  }
+  .display .container .topBar {
+    display: flex;
+  }
+  .display .container .topBar .imageWrapper {
+    width: 130px;
+    height: 84px;
+  }
+  .display .container .topBar .headersWrapper {
+    height: 60px;
+    margin-top: 11px;
+  }
+  .display .container .topBar .headersWrapper .titleWrapper .title {
+    font-size: 20px;
+    line-height: 24px;
+    grid-row: 1;
+  }
+  .display .container .topBar .headersWrapper .companyInfoWrapper .companyInfo {
+    font-size: 10px;
+    line-height: 12px;
+    grid-row: 2;
+  }
+  .display .container .topBar .closeButtonWrapper {
+    display: none;
+  }
+  .display .container .salary {
+    margin-top: 27px;
+    margin-bottom: 27px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .display .container .description {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (min-width: 834px) and (max-width: 1486px) {
+  .display {
+    position: absolute;
+    top: 170px;
+    left: 13vw;
+    display: inline-flex;
+    width: 74vw;
+    background: white;
+    padding-top: 23px;
+    box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  .display .container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4.5% 91% 4.5%;
+  }
+  .display .container div {
+    grid-column: 2;
+  }
+  .display .container .topBar {
+    display: flex;
+    width: 100%;
+  }
+  .display .container .topBar .wrappersWrapper {
+    display: flex;
+    width: 90%;
+  }
+  .display .container .topBar .wrappersWrapper .imageWrapper {
+    width: 130px;
+    height: 84px;
+  }
+  .display .container .topBar .wrappersWrapper .imageWrapper img {
+    border-radius: 20px;
+  }
+  .display .container .topBar .wrappersWrapper .headersWrapper {
+    margin-left: 25px;
+    height: 60px;
+    margin-top: 11px;
+  }
+  .display .container .topBar .wrappersWrapper .headersWrapper .titleWrapper .title {
+    font-size: 20px;
+    line-height: 24px;
+    grid-row: 1;
+  }
+  .display .container .topBar .wrappersWrapper .headersWrapper .companyInfoWrapper .companyInfo {
+    font-size: 10px;
+    line-height: 12px;
+    grid-row: 2;
+  }
+  .display .container .topBar .closeButtonWrapper {
+    display: flex;
+    width: 10%;
+    height: 100%;
+    justify-content: flex-end;
+  }
+  .display .container .topBar .closeButtonWrapper button {
+    margin-top: 7px;
+    height: 20px;
+    width: 20px;
+    background: none;
+    border-width: 0;
+  }
+  .display .container .salary {
+    margin-top: 27px;
+    margin-bottom: 27px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .display .container .description {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 834px) {
+  .display {
+    position: absolute;
+    top: 170px;
+    left: 10vw;
+    display: inline-flex;
+    width: 80vw;
+    background: white;
+    padding-top: 23px;
+    box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  .display .container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 30px auto 30px;
+  }
+  .display .container div {
+    grid-column: 2;
+  }
+  .display .container .topBar {
+    display: flex;
+    width: 100%;
+  }
+  .display .container .topBar .wrappersWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+  }
+  .display .container .topBar .wrappersWrapper .imageWrapper {
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    justify-content: start;
+  }
+  .display .container .topBar .wrappersWrapper .imageWrapper img {
+    border-radius: 20px;
+  }
+  .display .container .topBar .wrappersWrapper .headersWrapper {
+    height: 60px;
+    width: 100%;
+    justify-content: start;
+  }
+  .display .container .topBar .wrappersWrapper .headersWrapper .titleWrapper .title {
+    font-size: 20px;
+    line-height: 24px;
+    grid-row: 1;
+    margin-bottom: 15px;
+  }
+  .display .container .topBar .wrappersWrapper .headersWrapper .companyInfoWrapper .companyInfo {
+    font-size: 10px;
+    line-height: 12px;
+    grid-row: 2;
+  }
+  .display .container .topBar .closeButtonWrapper {
+    display: flex;
+    width: 10%;
+    height: 100%;
+    justify-content: flex-end;
+  }
+  .display .container .topBar .closeButtonWrapper button {
+    margin-top: 7px;
+    height: 20px;
+    width: 20px;
+    background: none;
+    border-width: 0;
+  }
+  .display .container .salary {
+    margin-top: 15px;
+    margin-bottom: 42px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .display .container .description {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+.display {
+  font-family: Montserrat, monospace;
+  text-align: left;
+  background: white;
+  box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.1);
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+.display .container {
+  width: 100%;
+  display: grid;
+}
+.display .container .topBar {
+  display: flex;
+}
+.display .container .topBar .imageWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+.display .container .topBar .headersWrapper {
+  display: grid;
+  grid-template-rows: auto auto;
+}
+.display .container .topBar .headersWrapper .titleWrapper .title {
+  font-weight: 700;
+  letter-spacing: 0;
+  text-align: left;
+  grid-row: 1;
+}
+.display .container .topBar .headersWrapper .companyInfoWrapper .companyInfo {
+  font-family: Mntserrat, monospace;
+  font-weight: 500;
+  letter-spacing: 0;
+  color: rgb(154, 170, 181);
+  grid-row: 2;
+}
+.display .container .topBar .headersWrapper .titleWrapper, .display .container .topBar .headersWrapper .companyInfoWrapper {
+  display: flex;
+  align-items: center;
+}
+.display .container .salary {
+  width: 100%;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+.display .container .description {
+  width: 100%;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-align: justify;
+}
+
+/*# sourceMappingURL=Display.module.css.map */

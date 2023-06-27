@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  ServerS.cpp
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\5\ServerS\ServerS.cpp(102,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\5\ServerS\ServerS.cpp(125,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  104 of 109 functions (95.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ServerS.vcxproj -> D:\_УЧЁБА_\Лабораторные\ПСП (Шиман)\5\x64\Release\ServerS.exe

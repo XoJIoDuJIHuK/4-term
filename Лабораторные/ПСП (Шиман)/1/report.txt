@@ -1,0 +1,215 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            XoJIoDuJIHuK:0         LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:443            XoJIoDuJIHuK:0         LISTENING
+ [vmware-hostd.exe]
+  TCP    0.0.0.0:445            XoJIoDuJIHuK:0         LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:902            XoJIoDuJIHuK:0         LISTENING
+ [vmware-authd.exe]
+  TCP    0.0.0.0:912            XoJIoDuJIHuK:0         LISTENING
+ [vmware-authd.exe]
+  TCP    0.0.0.0:1947           XoJIoDuJIHuK:0         LISTENING
+ [hasplms.exe]
+  TCP    0.0.0.0:5040           XoJIoDuJIHuK:0         LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           XoJIoDuJIHuK:0         LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:7680           XoJIoDuJIHuK:0         LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:26760          XoJIoDuJIHuK:0         LISTENING
+ [ScpService.exe]
+  TCP    0.0.0.0:26761          XoJIoDuJIHuK:0         LISTENING
+ [ScpService.exe]
+  TCP    0.0.0.0:27036          XoJIoDuJIHuK:0         LISTENING
+ [steam.exe]
+  TCP    0.0.0.0:49664          XoJIoDuJIHuK:0         LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          XoJIoDuJIHuK:0         LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49666          XoJIoDuJIHuK:0         LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          XoJIoDuJIHuK:0         LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          XoJIoDuJIHuK:0         LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49706          XoJIoDuJIHuK:0         LISTENING
+ Не удается получить сведения о владельце
+  TCP    127.0.0.1:1434         XoJIoDuJIHuK:0         LISTENING
+ [sqlservr.exe]
+  TCP    127.0.0.1:3213         XoJIoDuJIHuK:0         LISTENING
+ [OriginWebHelperService.exe]
+  TCP    127.0.0.1:6942         XoJIoDuJIHuK:0         LISTENING
+ [idea64.exe]
+  TCP    127.0.0.1:8307         XoJIoDuJIHuK:0         LISTENING
+ [vmware-hostd.exe]
+  TCP    127.0.0.1:27060        XoJIoDuJIHuK:0         LISTENING
+ [steam.exe]
+  TCP    127.0.0.1:27060        XoJIoDuJIHuK:54733     ESTABLISHED
+ [steam.exe]
+  TCP    127.0.0.1:54733        XoJIoDuJIHuK:27060     ESTABLISHED
+ [steamwebhelper.exe]
+  TCP    127.0.0.1:55357        XoJIoDuJIHuK:55358     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55358        XoJIoDuJIHuK:55357     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55359        XoJIoDuJIHuK:55360     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55360        XoJIoDuJIHuK:55359     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55361        XoJIoDuJIHuK:55362     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55362        XoJIoDuJIHuK:55361     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55370        XoJIoDuJIHuK:55371     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55371        XoJIoDuJIHuK:55370     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55382        XoJIoDuJIHuK:55383     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55383        XoJIoDuJIHuK:55382     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55384        XoJIoDuJIHuK:55385     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55385        XoJIoDuJIHuK:55384     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55386        XoJIoDuJIHuK:55387     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55387        XoJIoDuJIHuK:55386     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55388        XoJIoDuJIHuK:55389     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55389        XoJIoDuJIHuK:55388     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55390        XoJIoDuJIHuK:55391     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55391        XoJIoDuJIHuK:55390     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55395        XoJIoDuJIHuK:55396     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55396        XoJIoDuJIHuK:55395     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55397        XoJIoDuJIHuK:55398     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55398        XoJIoDuJIHuK:55397     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55399        XoJIoDuJIHuK:55400     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55400        XoJIoDuJIHuK:55399     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55401        XoJIoDuJIHuK:55402     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55402        XoJIoDuJIHuK:55401     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55403        XoJIoDuJIHuK:55404     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55404        XoJIoDuJIHuK:55403     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55405        XoJIoDuJIHuK:55406     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55406        XoJIoDuJIHuK:55405     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55407        XoJIoDuJIHuK:55408     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55408        XoJIoDuJIHuK:55407     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55409        XoJIoDuJIHuK:55410     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55410        XoJIoDuJIHuK:55409     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55411        XoJIoDuJIHuK:55412     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55412        XoJIoDuJIHuK:55411     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55413        XoJIoDuJIHuK:55414     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55414        XoJIoDuJIHuK:55413     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55415        XoJIoDuJIHuK:55416     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55416        XoJIoDuJIHuK:55415     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55417        XoJIoDuJIHuK:55418     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55418        XoJIoDuJIHuK:55417     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55419        XoJIoDuJIHuK:55420     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55420        XoJIoDuJIHuK:55419     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55421        XoJIoDuJIHuK:55422     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55422        XoJIoDuJIHuK:55421     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55423        XoJIoDuJIHuK:55424     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55424        XoJIoDuJIHuK:55423     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55425        XoJIoDuJIHuK:55426     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55426        XoJIoDuJIHuK:55425     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55427        XoJIoDuJIHuK:55428     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55428        XoJIoDuJIHuK:55427     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55429        XoJIoDuJIHuK:55430     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55430        XoJIoDuJIHuK:55429     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55431        XoJIoDuJIHuK:55432     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55432        XoJIoDuJIHuK:55431     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55433        XoJIoDuJIHuK:55434     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55434        XoJIoDuJIHuK:55433     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55435        XoJIoDuJIHuK:55436     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55436        XoJIoDuJIHuK:55435     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55437        XoJIoDuJIHuK:55438     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55438        XoJIoDuJIHuK:55437     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55439        XoJIoDuJIHuK:55440     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55440        XoJIoDuJIHuK:55439     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55441        XoJIoDuJIHuK:55442     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:55442        XoJIoDuJIHuK:55441     ESTABLISHED
+ [idea64.exe]
+  TCP    127.0.0.1:60402        XoJIoDuJIHuK:65001     ESTABLISHED
+ [nvcontainer.exe]
+  TCP    127.0.0.1:60469        XoJIoDuJIHuK:0         LISTENING
+ [NVIDIA Web Helper.exe]
+  TCP    127.0.0.1:60469        XoJIoDuJIHuK:60495     ESTABLISHED
+ [NVIDIA Web Helper.exe]
+  TCP    127.0.0.1:60495        XoJIoDuJIHuK:60469     ESTABLISHED
+ [NVIDIA Share.exe]
+  TCP    127.0.0.1:63342        XoJIoDuJIHuK:0         LISTENING
+ [idea64.exe]
+  TCP    127.0.0.1:65001        XoJIoDuJIHuK:0         LISTENING
+ [nvcontainer.exe]
+  TCP    127.0.0.1:65001        XoJIoDuJIHuK:60402     ESTABLISHED
+ [nvcontainer.exe]
+  TCP    192.168.1.3:139        XoJIoDuJIHuK:0         LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.1.3:54770      yabs:https             ESTABLISHED
+ [vivaldi.exe]
+  TCP    192.168.1.3:54780      20.199.120.182:https   ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.1.3:55272      52.96.64.226:https     ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.1.3:55320      80.94.168.134:5001     ESTABLISHED
+ [vivaldi.exe]
