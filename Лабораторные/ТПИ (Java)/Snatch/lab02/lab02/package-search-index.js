@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"by.belstu.it.merhel"},{"l":"by.belstu.it.merhel.basejava"},{"l":"com.company"}];updateSearchResults();

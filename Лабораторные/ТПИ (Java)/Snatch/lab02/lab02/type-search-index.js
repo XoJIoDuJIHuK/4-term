@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"by.belstu.it.merhel.basejava","l":"JavaTest"},{"p":"by.belstu.it.merhel","l":"Main"},{"p":"com.company","l":"Main"},{"p":"by.belstu.it.merhel","l":"TextFunctionRenamed"},{"p":"by.belstu.it.merhel.basejava","l":"WrapperString"}];updateSearchResults();
